@@ -5,15 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f73f7879-5112-4636-8a1f-79b66f364bb0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCore.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypes_ТипыДанных/PrimitivTypes_ПримитивныеТипы/Boolean_ЛогическиеЗначения/Boolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypes_ТипыДанных/PrimitivTypes_ПримитивныеТипы/Boolean_ЛогическиеЗначения/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataTypes_ТипыДанных/PrimitivTypes_ПримитивныеТипы/Char_Символы/Char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataTypes_ТипыДанных/PrimitivTypes_ПримитивныеТипы/Char_Символы/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataTypes_ТипыДанных/PrimitivTypes_ПримитивныеТипы/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataTypes_ТипыДанных/PrimitivTypes_ПримитивныеТипы/FloatingPointNumbers_ЧислаСПлавающейТочкой/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataTypes_ТипыДанных/PrimitivTypes_ПримитивныеТипы/FloatingPointNumbers_ЧислаСПлавающейТочкой/FloatingPointNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataTypes_ТипыДанных/PrimitivTypes_ПримитивныеТипы/Integers_ЦелыеЧисла/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataTypes_ТипыДанных/PrimitivTypes_ПримитивныеТипы/Integers_ЦелыеЧисла/Integers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals_Литералы/CharacterLiterals_СимвольныеЛитералы/CharacterLiterals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals_Литералы/CharacterLiterals_СимвольныеЛитералы/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals_Литералы/FloatingPointLiteral_ЛитералСПлавающейТочкой/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals_Литералы/FloatingPointLiteral_ЛитералСПлавающейТочкой/FloatingPointLiteral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals_Литералы/IntegerLiterals_ЦелочисленныеЛитералы/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals_Литералы/IntegerLiterals_ЦелочисленныеЛитералы/IntegerLiterals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals_Литералы/LogicalLiterals_ЛогическиеЛитералы/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals_Литералы/LogicalLiterals_ЛогическиеЛитералы/LogicalLiterals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals_Литералы/StringLiterals_СтроковыеЛитералы/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals_Литералы/StringLiterals_СтроковыеЛитералы/StringLiterals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataTypes_ТипыДанных/PrimitivTypes_ПримитивныеТипы/Boolean_ЛогическиеЗначения/Description_Описание.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataTypes_ТипыДанных/PrimitivTypes_ПримитивныеТипы/Boolean_ЛогическиеЗначения/Description_Описание.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,16 +54,79 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/alext/OneDrive/Документы/JavaCore/JavaCore/src/literals_Литералы/5_StringLiterals_СтроковыеЛитералы"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Boolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypes_ТипыДанных.PrimitivTypes_ПримитивныеТипы.Boolean_ЛогическиеЗначения.Boolean" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\literals_Литералы\5_StringLiterals_СтроковыеЛитералы" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\literals_Литералы\4_CharacterLiterals_СимвольныеЛитералы" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\literals_Литералы\3_LogicalLiterals_ЛогическиеЛитералы" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\literals_Литералы\FloatingPointLiteral_ЛитералСПлавающейТочкой" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\literals_Литералы\IntegerLiterals_ЦелочисленныеЛитералы" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StringLiterals">
+    <configuration name="Char" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypes_ТипыДанных.PrimitivTypes_ПримитивныеТипы.Char_Символы.Char" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataTypes_ТипыДанных.PrimitivTypes_ПримитивныеТипы.Boolean_ЛогическиеЗначения.*" />
+          <option name="PATTERN" value="DataTypes_ТипыДанных.PrimitivTypes_ПримитивныеТипы.Char_Символы.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FloatingPointNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypes_ТипыДанных.PrimitivTypes_ПримитивныеТипы.FloatingPointNumbers_ЧислаСПлавающейТочкой.FloatingPointNumbers" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataTypes_ТипыДанных.PrimitivTypes_ПримитивныеТипы.FloatingPointNumbers_ЧислаСПлавающейТочкой.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegerLiterals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="literals_Литералы.IntegerLiterals_ЦелочисленныеЛитералы.IntegerLiterals" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="literals_Литералы.IntegerLiterals_ЦелочисленныеЛитералы.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogicalLiterals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="literals_Литералы.LogicalLiterals_ЛогическиеЛитералы.LogicalLiterals" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="literals_Литералы.LogicalLiterals_ЛогическиеЛитералы.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringLiterals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="literals_Литералы.StringLiterals_СтроковыеЛитералы.StringLiterals" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="literals_Литералы.StringLiterals_СтроковыеЛитералы.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,7 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Boolean" />
+        <item itemvalue="Application.StringLiterals" />
+        <item itemvalue="Application.LogicalLiterals" />
+        <item itemvalue="Application.IntegerLiterals" />
+        <item itemvalue="Application.Char" />
+        <item itemvalue="Application.FloatingPointNumbers" />
       </list>
     </recent_temporary>
   </component>

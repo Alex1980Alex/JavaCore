@@ -1,0 +1,23 @@
+Логических литерала: true и false.
+Представляют логические значения "истина" и "ложь" соответственно
+и используются для создания булевых (boolean) переменных и выражений в коде.
+
+Присвоение логических значений переменным:
+boolean isJavaFun = true;
+boolean isProgrammingHard = false;
+
+Использование логических литералов в условных операторах:
+if (isJavaFun) {
+    System.out.println("Java is fun!");
+} else {
+    System.out.println("Java is not fun.");
+}
+
+Возвращение логических значений из методов:
+public boolean isEven(int number) {
+    return number % 2 == 0;
+}
+
+Использование логических литералов в выражениях:
+boolean result = true && false; // result будет равен false
+boolean anotherResult = true || false; // anotherResult будет равен true
