@@ -1,4 +1,4 @@
-package DataTypes_ТипыДанных.PrimitivTypes_ПримитивныеТипы.FloatingPointNumbers_ЧислаСПлавающейТочкой;
+package A.PrimitivTypes_ПримитивныеТипы.FloatingPointNumbers_ЧислаСПлавающейТочкой;
 
 public class FloatingPointNumbers {
     public static void main(String[] args) {

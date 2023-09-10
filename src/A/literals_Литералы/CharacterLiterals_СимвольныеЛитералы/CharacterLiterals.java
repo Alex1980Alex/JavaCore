@@ -1,4 +1,4 @@
-package literals_Литералы.CharacterLiterals_СимвольныеЛитералы;
+package A.literals_Литералы.CharacterLiterals_СимвольныеЛитералы;
 
 public class CharacterLiterals {
     public static void main(String[] args) {

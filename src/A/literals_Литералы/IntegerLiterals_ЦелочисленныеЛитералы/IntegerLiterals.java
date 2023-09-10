@@ -1,4 +1,4 @@
-package literals_Литералы.IntegerLiterals_ЦелочисленныеЛитералы;
+package A.literals_Литералы.IntegerLiterals_ЦелочисленныеЛитералы;
 
 public class IntegerLiterals {
     public static void main(String[] args) {
