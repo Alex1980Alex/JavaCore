@@ -5,11 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f73f7879-5112-4636-8a1f-79b66f364bb0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/A_ТипыДанных_Переменные_Массивы/Arrays_Массивы/Arrays_Массивы.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A_ТипыДанных_Переменные_Массивы/Arrays_Массивы/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_Операции/ArithmeticOperations_АрифметическиеОперации/ArithmeticOperations_АрифметическиеОперации.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_Операции/ArithmeticOperations_АрифметическиеОперации/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_Операции/AssignmentOperation_ОперацияПрисваивания/AssignmentOperation_ОперацияПрисваивания.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_Операции/AssignmentOperation_ОперацияПрисваивания/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_Операции/BitwiseOperations_ПобитовыеОперации/BinarySystem_ДвоичнаяСистема.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_Операции/BitwiseOperations_ПобитовыеОперации/BitwiseOperations_ПобитовыеОперации.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_Операции/BitwiseOperations_ПобитовыеОперации/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_Операции/BooleanLogicalOperations_БулевскиеЛогическиеОперации/BooleanLogicalOperations_БулевскиеЛогическиеОперации.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_Операции/BooleanLogicalOperations_БулевскиеЛогическиеОперации/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_Операции/RelationshipOperations_ОперацииОтношения/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_Операции/RelationshipOperations_ОперацииОтношения/RelationshipOperations_ОперацииОтношения.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A_ТипыДанных_Переменные_Массивы/Variables_Переменные/Description_Описание.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_ТипыДанных_Переменные_Массивы/Variables_Переменные/Description_Описание.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A_ТипыДанных_Переменные_Массивы/Variables_Переменные/Variables_Переменные.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_ТипыДанных_Переменные_Массивы/Variables_Переменные/Variables_Переменные.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,16 +47,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/alext/OneDrive/Документы/JavaCore/JavaCore/src/A_ТипыДанных_Переменные_Массивы/Arrays_Массивы"
+    "last_opened_file_path": "C:/Users/alext/OneDrive/Документы/JavaCore/JavaCore/src/B_Операции/AssignmentOperation_ОперацияПрисваивания"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\A_ТипыДанных_Переменные_Массивы\Arrays_Массивы" />
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\A_ТипыДанных_Переменные_Массивы\ConversionAndTypeConversion_ПреобразованиеИПриведениеТипов" />
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\Variables_Переменные" />
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\literals_Литералы" />
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\literals_Литералы\5_StringLiterals_СтроковыеЛитералы" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\B_Операции\AssignmentOperation_ОперацияПрисваивания" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\B_Операции\BooleanLogicalOperations_БулевскиеЛогическиеОперации" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\B_Операции\RelationshipOperations_ОперацииОтношения" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\B_Операции\BitwiseOperations_ПобитовыеОперации" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\B_Операции\ArithmeticOperations_АрифметическиеОперации" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Arrays_Массивы">
