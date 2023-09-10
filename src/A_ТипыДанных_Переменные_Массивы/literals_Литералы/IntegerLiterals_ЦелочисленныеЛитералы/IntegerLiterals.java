@@ -1,4 +1,4 @@
-package A.literals_Литералы.IntegerLiterals_ЦелочисленныеЛитералы;
+package A_ТипыДанных_Переменные_Массивы.literals_Литералы.IntegerLiterals_ЦелочисленныеЛитералы;
 
 public class IntegerLiterals {
     public static void main(String[] args) {

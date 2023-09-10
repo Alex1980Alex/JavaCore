@@ -5,30 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f73f7879-5112-4636-8a1f-79b66f364bb0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/A/Variables_Переменные/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A/Variables_Переменные/ScopeVariables_ОбластьВидимостиПеременных.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A/Variables_Переменные/Variables_Переменные.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A_ТипыДанных_Переменные_Массивы/ConversionAndTypeConversion_ПреобразованиеИПриведениеТипов/ConversionAndTypeConversion_ПреобразованиеИПриведениеТипов.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A_ТипыДанных_Переменные_Массивы/Variables_Переменные/Description_Описание.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataTypes_ТипыДанных/PrimitivTypes_ПримитивныеТипы/Boolean_ЛогическиеЗначения/Boolean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataTypes_ТипыДанных/PrimitivTypes_ПримитивныеТипы/Boolean_ЛогическиеЗначения/Description_Описание.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataTypes_ТипыДанных/PrimitivTypes_ПримитивныеТипы/Char_Символы/Char.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataTypes_ТипыДанных/PrimitivTypes_ПримитивныеТипы/Char_Символы/Description_Описание.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataTypes_ТипыДанных/PrimitivTypes_ПримитивныеТипы/Description_Описание.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataTypes_ТипыДанных/PrimitivTypes_ПримитивныеТипы/FloatingPointNumbers_ЧислаСПлавающейТочкой/Description_Описание.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataTypes_ТипыДанных/PrimitivTypes_ПримитивныеТипы/FloatingPointNumbers_ЧислаСПлавающейТочкой/FloatingPointNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataTypes_ТипыДанных/PrimitivTypes_ПримитивныеТипы/Integers_ЦелыеЧисла/Description_Описание.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataTypes_ТипыДанных/PrimitivTypes_ПримитивныеТипы/Integers_ЦелыеЧисла/Integers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/literals_Литералы/CharacterLiterals_СимвольныеЛитералы/CharacterLiterals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A/literals_Литералы/CharacterLiterals_СимвольныеЛитералы/CharacterLiterals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/literals_Литералы/CharacterLiterals_СимвольныеЛитералы/Description_Описание.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/A/literals_Литералы/CharacterLiterals_СимвольныеЛитералы/Description_Описание.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/literals_Литералы/Description_Описание.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/A/literals_Литералы/Description_Описание.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/literals_Литералы/FloatingPointLiteral_ЛитералСПлавающейТочкой/Description_Описание.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/A/literals_Литералы/FloatingPointLiteral_ЛитералСПлавающейТочкой/Description_Описание.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/literals_Литералы/FloatingPointLiteral_ЛитералСПлавающейТочкой/FloatingPointLiteral.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A/literals_Литералы/FloatingPointLiteral_ЛитералСПлавающейТочкой/FloatingPointLiteral.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/literals_Литералы/IntegerLiterals_ЦелочисленныеЛитералы/Description_Описание.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/A/literals_Литералы/IntegerLiterals_ЦелочисленныеЛитералы/Description_Описание.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/literals_Литералы/IntegerLiterals_ЦелочисленныеЛитералы/IntegerLiterals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A/literals_Литералы/IntegerLiterals_ЦелочисленныеЛитералы/IntegerLiterals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/literals_Литералы/LogicalLiterals_ЛогическиеЛитералы/Description_Описание.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/A/literals_Литералы/LogicalLiterals_ЛогическиеЛитералы/Description_Описание.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/literals_Литералы/LogicalLiterals_ЛогическиеЛитералы/LogicalLiterals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A/literals_Литералы/LogicalLiterals_ЛогическиеЛитералы/LogicalLiterals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/literals_Литералы/StringLiterals_СтроковыеЛитералы/Description_Описание.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/A/literals_Литералы/StringLiterals_СтроковыеЛитералы/Description_Описание.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/literals_Литералы/StringLiterals_СтроковыеЛитералы/StringLiterals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A/literals_Литералы/StringLiterals_СтроковыеЛитералы/StringLiterals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A/PrimitivTypes_ПримитивныеТипы/Boolean_ЛогическиеЗначения/Boolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_ТипыДанных_Переменные_Массивы/PrimitivTypes_ПримитивныеТипы/Boolean_ЛогическиеЗначения/Boolean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A/PrimitivTypes_ПримитивныеТипы/Boolean_ЛогическиеЗначения/Description_Описание.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_ТипыДанных_Переменные_Массивы/PrimitivTypes_ПримитивныеТипы/Boolean_ЛогическиеЗначения/Description_Описание.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A/PrimitivTypes_ПримитивныеТипы/Char_Символы/Char.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_ТипыДанных_Переменные_Массивы/PrimitivTypes_ПримитивныеТипы/Char_Символы/Char.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A/PrimitivTypes_ПримитивныеТипы/Char_Символы/Description_Описание.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_ТипыДанных_Переменные_Массивы/PrimitivTypes_ПримитивныеТипы/Char_Символы/Description_Описание.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A/PrimitivTypes_ПримитивныеТипы/Description_Описание.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_ТипыДанных_Переменные_Массивы/PrimitivTypes_ПримитивныеТипы/Description_Описание.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A/PrimitivTypes_ПримитивныеТипы/FloatingPointNumbers_ЧислаСПлавающейТочкой/Description_Описание.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_ТипыДанных_Переменные_Массивы/PrimitivTypes_ПримитивныеТипы/FloatingPointNumbers_ЧислаСПлавающейТочкой/Description_Описание.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A/PrimitivTypes_ПримитивныеТипы/FloatingPointNumbers_ЧислаСПлавающейТочкой/FloatingPointNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_ТипыДанных_Переменные_Массивы/PrimitivTypes_ПримитивныеТипы/FloatingPointNumbers_ЧислаСПлавающейТочкой/FloatingPointNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A/PrimitivTypes_ПримитивныеТипы/Integers_ЦелыеЧисла/Description_Описание.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_ТипыДанных_Переменные_Массивы/PrimitivTypes_ПримитивныеТипы/Integers_ЦелыеЧисла/Description_Описание.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A/PrimitivTypes_ПримитивныеТипы/Integers_ЦелыеЧисла/Integers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_ТипыДанных_Переменные_Массивы/PrimitivTypes_ПримитивныеТипы/Integers_ЦелыеЧисла/Integers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A/Variables_Переменные/Description_Описание.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_ТипыДанных_Переменные_Массивы/ConversionAndTypeConversion_ПреобразованиеИПриведениеТипов/Description_Описание.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A/Variables_Переменные/ScopeVariables_ОбластьВидимостиПеременных.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_ТипыДанных_Переменные_Массивы/Variables_Переменные/ScopeVariables_ОбластьВидимостиПеременных.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A/Variables_Переменные/Variables_Переменные.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_ТипыДанных_Переменные_Массивы/Variables_Переменные/Variables_Переменные.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A/literals_Литералы/CharacterLiterals_СимвольныеЛитералы/CharacterLiterals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_ТипыДанных_Переменные_Массивы/literals_Литералы/CharacterLiterals_СимвольныеЛитералы/CharacterLiterals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A/literals_Литералы/CharacterLiterals_СимвольныеЛитералы/Description_Описание.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_ТипыДанных_Переменные_Массивы/literals_Литералы/CharacterLiterals_СимвольныеЛитералы/Description_Описание.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A/literals_Литералы/Description_Описание.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_ТипыДанных_Переменные_Массивы/literals_Литералы/Description_Описание.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A/literals_Литералы/FloatingPointLiteral_ЛитералСПлавающейТочкой/Description_Описание.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_ТипыДанных_Переменные_Массивы/literals_Литералы/FloatingPointLiteral_ЛитералСПлавающейТочкой/Description_Описание.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A/literals_Литералы/FloatingPointLiteral_ЛитералСПлавающейТочкой/FloatingPointLiteral.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_ТипыДанных_Переменные_Массивы/literals_Литералы/FloatingPointLiteral_ЛитералСПлавающейТочкой/FloatingPointLiteral.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A/literals_Литералы/IntegerLiterals_ЦелочисленныеЛитералы/Description_Описание.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_ТипыДанных_Переменные_Массивы/literals_Литералы/IntegerLiterals_ЦелочисленныеЛитералы/Description_Описание.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A/literals_Литералы/IntegerLiterals_ЦелочисленныеЛитералы/IntegerLiterals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_ТипыДанных_Переменные_Массивы/literals_Литералы/IntegerLiterals_ЦелочисленныеЛитералы/IntegerLiterals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A/literals_Литералы/LogicalLiterals_ЛогическиеЛитералы/Description_Описание.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_ТипыДанных_Переменные_Массивы/literals_Литералы/LogicalLiterals_ЛогическиеЛитералы/Description_Описание.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A/literals_Литералы/LogicalLiterals_ЛогическиеЛитералы/LogicalLiterals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_ТипыДанных_Переменные_Массивы/literals_Литералы/LogicalLiterals_ЛогическиеЛитералы/LogicalLiterals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A/literals_Литералы/StringLiterals_СтроковыеЛитералы/Description_Описание.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_ТипыДанных_Переменные_Массивы/literals_Литералы/StringLiterals_СтроковыеЛитералы/Description_Описание.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A/literals_Литералы/StringLiterals_СтроковыеЛитералы/StringLiterals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_ТипыДанных_Переменные_Массивы/literals_Литералы/StringLiterals_СтроковыеЛитералы/StringLiterals.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,16 +61,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/alext/OneDrive/Документы/JavaCore/JavaCore/src/Variables_Переменные"
+    "last_opened_file_path": "C:/Users/alext/OneDrive/Документы/JavaCore/JavaCore/src/A_ТипыДанных_Переменные_Массивы/ConversionAndTypeConversion_ПреобразованиеИПриведениеТипов"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\A_ТипыДанных_Переменные_Массивы\ConversionAndTypeConversion_ПреобразованиеИПриведениеТипов" />
       <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\Variables_Переменные" />
       <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\literals_Литералы" />
       <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\literals_Литералы\5_StringLiterals_СтроковыеЛитералы" />
       <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\literals_Литералы\4_CharacterLiterals_СимвольныеЛитералы" />
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\literals_Литералы\3_LogicalLiterals_ЛогическиеЛитералы" />
     </key>
   </component>
   <component name="RunManager" selected="Application.StringLiterals">
@@ -99,11 +101,11 @@
       </method>
     </configuration>
     <configuration name="IntegerLiterals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A.literals_Литералы.IntegerLiterals_ЦелочисленныеЛитералы.IntegerLiterals" />
+      <option name="MAIN_CLASS_NAME" value="A_ТипыДанных_Переменные_Массивы.literals_Литералы.IntegerLiterals_ЦелочисленныеЛитералы.IntegerLiterals" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A.literals_Литералы.IntegerLiterals_ЦелочисленныеЛитералы.*" />
+          <option name="PATTERN" value="A_ТипыДанных_Переменные_Массивы.literals_Литералы.IntegerLiterals_ЦелочисленныеЛитералы.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +114,11 @@
       </method>
     </configuration>
     <configuration name="LogicalLiterals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A.literals_Литералы.LogicalLiterals_ЛогическиеЛитералы.LogicalLiterals" />
+      <option name="MAIN_CLASS_NAME" value="A_ТипыДанных_Переменные_Массивы.literals_Литералы.LogicalLiterals_ЛогическиеЛитералы.LogicalLiterals" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A.literals_Литералы.LogicalLiterals_ЛогическиеЛитералы.*" />
+          <option name="PATTERN" value="A_ТипыДанных_Переменные_Массивы.literals_Литералы.LogicalLiterals_ЛогическиеЛитералы.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +127,11 @@
       </method>
     </configuration>
     <configuration name="StringLiterals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A.literals_Литералы.StringLiterals_СтроковыеЛитералы.StringLiterals" />
+      <option name="MAIN_CLASS_NAME" value="A_ТипыДанных_Переменные_Массивы.literals_Литералы.StringLiterals_СтроковыеЛитералы.StringLiterals" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A.literals_Литералы.StringLiterals_СтроковыеЛитералы.*" />
+          <option name="PATTERN" value="A_ТипыДанных_Переменные_Массивы.literals_Литералы.StringLiterals_СтроковыеЛитералы.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

@@ -1,4 +1,4 @@
-package A.literals_Литералы.StringLiterals_СтроковыеЛитералы;
+package A_ТипыДанных_Переменные_Массивы.literals_Литералы.StringLiterals_СтроковыеЛитералы;
 
 public class StringLiterals {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package A.literals_Литералы.FloatingPointLiteral_ЛитералСПлавающейТочкой;
+package A_ТипыДанных_Переменные_Массивы.literals_Литералы.FloatingPointLiteral_ЛитералСПлавающейТочкой;
 
 public class FloatingPointLiteral {
     public static void main(String[] args) {

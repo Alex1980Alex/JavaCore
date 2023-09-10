@@ -1,4 +1,4 @@
-package A.literals_Литералы.CharacterLiterals_СимвольныеЛитералы;
+package A_ТипыДанных_Переменные_Массивы.literals_Литералы.CharacterLiterals_СимвольныеЛитералы;
 
 public class CharacterLiterals {
     public static void main(String[] args) {

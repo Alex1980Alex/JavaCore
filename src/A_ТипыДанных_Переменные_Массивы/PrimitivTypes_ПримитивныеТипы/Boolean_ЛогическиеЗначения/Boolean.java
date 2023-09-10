@@ -1,4 +1,4 @@
-package A.PrimitivTypes_ПримитивныеТипы.Boolean_ЛогическиеЗначения;
+package A_ТипыДанных_Переменные_Массивы.PrimitivTypes_ПримитивныеТипы.Boolean_ЛогическиеЗначения;
 
 public class Boolean {
     public static void main(String[] args) {

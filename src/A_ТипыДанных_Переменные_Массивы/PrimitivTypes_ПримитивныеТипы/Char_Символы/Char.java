@@ -1,4 +1,4 @@
-package A.PrimitivTypes_ПримитивныеТипы.Char_Символы;
+package A_ТипыДанных_Переменные_Массивы.PrimitivTypes_ПримитивныеТипы.Char_Символы;
 
 public class Char {
     public static void main(String[] args) {

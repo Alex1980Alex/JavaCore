@@ -1,4 +1,4 @@
-package A.literals_Литералы.LogicalLiterals_ЛогическиеЛитералы;
+package A_ТипыДанных_Переменные_Массивы.literals_Литералы.LogicalLiterals_ЛогическиеЛитералы;
 
 public class LogicalLiterals {
     public static void main(String[] args) {

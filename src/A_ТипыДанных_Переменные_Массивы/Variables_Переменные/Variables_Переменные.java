@@ -1,4 +1,4 @@
-package A.Variables_Переменные;
+package A_ТипыДанных_Переменные_Массивы.Variables_Переменные;
 
 public class Variables_Переменные {
 

@@ -1,4 +1,4 @@
-package A.PrimitivTypes_ПримитивныеТипы.Integers_ЦелыеЧисла;
+package A_ТипыДанных_Переменные_Массивы.PrimitivTypes_ПримитивныеТипы.Integers_ЦелыеЧисла;
 
 public class Integers {
             public static void main(String[] args) {
