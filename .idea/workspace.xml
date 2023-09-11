@@ -5,18 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f73f7879-5112-4636-8a1f-79b66f364bb0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/B_Операции/ArithmeticOperations_АрифметическиеОперации/ArithmeticOperations_АрифметическиеОперации.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/B_Операции/ArithmeticOperations_АрифметическиеОперации/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/B_Операции/AssignmentOperation_ОперацияПрисваивания/AssignmentOperation_ОперацияПрисваивания.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/B_Операции/AssignmentOperation_ОперацияПрисваивания/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/B_Операции/BitwiseOperations_ПобитовыеОперации/BinarySystem_ДвоичнаяСистема.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/B_Операции/BitwiseOperations_ПобитовыеОперации/BitwiseOperations_ПобитовыеОперации.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/B_Операции/BitwiseOperations_ПобитовыеОперации/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/B_Операции/BooleanLogicalOperations_БулевскиеЛогическиеОперации/BooleanLogicalOperations_БулевскиеЛогическиеОперации.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/B_Операции/BooleanLogicalOperations_БулевскиеЛогическиеОперации/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/B_Операции/RelationshipOperations_ОперацииОтношения/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/B_Операции/RelationshipOperations_ОперацииОтношения/RelationshipOperations_ОперацииОтношения.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_Операции/BitwiseOperations_ПобитовыеОперации/BinarySystem_ДвоичнаяСистема.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B_Операции/BitwiseOperations_ПобитовыеОперации/BinarySystem_ДвоичнаяСистема.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_Операции/BitwiseOperations_ПобитовыеОперации/BinarySystem_ДвоичнаяСистема.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B_Операции/BitwiseOperations_ПобитовыеОперации/BitwiseOperations_ПобитовыеОперации.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_Операции/BitwiseOperations_ПобитовыеОперации/BitwiseOperations_ПобитовыеОперации.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B_Операции/BitwiseOperations_ПобитовыеОперации/Description_Описание.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_Операции/BitwiseOperations_ПобитовыеОперации/Description_Описание.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B_Операции/BooleanLogicalOperations_БулевскиеЛогическиеОперации/Description_Описание.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_Операции/BooleanLogicalOperations_БулевскиеЛогическиеОперации/Description_Описание.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B_Операции/RelationshipOperations_ОперацииОтношения/Description_Описание.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_Операции/RelationshipOperations_ОперацииОтношения/Description_Описание.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B_Операции/RelationshipOperations_ОперацииОтношения/RelationshipOperations_ОперацииОтношения.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_Операции/RelationshipOperations_ОперацииОтношения/RelationshipOperations_ОперацииОтношения.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +55,7 @@
       <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\B_Операции\ArithmeticOperations_АрифметическиеОперации" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Arrays_Массивы">
+  <component name="RunManager" selected="Application.RelationshipOperations_ОперацииОтношения">
     <configuration name="Arrays_Массивы" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="A_ТипыДанных_Переменные_Массивы.Arrays_Массивы.Arrays_Массивы" />
       <module name="JavaCore" />
@@ -73,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Char" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A.DataTypes_ТипыДанных.PrimitivTypes_ПримитивныеТипы.Char_Символы.Char" />
+    <configuration name="BinarySystem_ДвоичнаяСистема" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B_Операции.BitwiseOperations_ПобитовыеОперации.BinarySystem_ДвоичнаяСистема" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A.DataTypes_ТипыДанных.PrimitivTypes_ПримитивныеТипы.Char_Символы.*" />
+          <option name="PATTERN" value="B_Операции.BitwiseOperations_ПобитовыеОперации.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerLiterals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A_ТипыДанных_Переменные_Массивы.literals_Литералы.IntegerLiterals_ЦелочисленныеЛитералы.IntegerLiterals" />
+    <configuration name="BitwiseOperations_ПобитовыеОперации" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B_Операции.BitwiseOperations_ПобитовыеОперации.BitwiseOperations_ПобитовыеОперации" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A_ТипыДанных_Переменные_Массивы.literals_Литералы.IntegerLiterals_ЦелочисленныеЛитералы.*" />
+          <option name="PATTERN" value="B_Операции.BitwiseOperations_ПобитовыеОперации.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogicalLiterals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A_ТипыДанных_Переменные_Массивы.literals_Литералы.LogicalLiterals_ЛогическиеЛитералы.LogicalLiterals" />
+    <configuration name="RelationshipOperations_ОперацииОтношения" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B_Операции.RelationshipOperations_ОперацииОтношения.RelationshipOperations_ОперацииОтношения" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A_ТипыДанных_Переменные_Массивы.literals_Литералы.LogicalLiterals_ЛогическиеЛитералы.*" />
+          <option name="PATTERN" value="B_Операции.RelationshipOperations_ОперацииОтношения.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RelationshipOperations_ОперацииОтношения" />
+        <item itemvalue="Application.BitwiseOperations_ПобитовыеОперации" />
+        <item itemvalue="Application.BinarySystem_ДвоичнаяСистема" />
         <item itemvalue="Application.Arrays_Массивы" />
         <item itemvalue="Application.StringLiterals" />
-        <item itemvalue="Application.LogicalLiterals" />
-        <item itemvalue="Application.IntegerLiterals" />
-        <item itemvalue="Application.Char" />
       </list>
     </recent_temporary>
   </component>
