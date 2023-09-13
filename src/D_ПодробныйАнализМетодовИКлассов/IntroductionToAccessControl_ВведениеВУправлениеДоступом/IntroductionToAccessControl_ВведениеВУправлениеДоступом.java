@@ -1,0 +1,5 @@
+package D_ПодробныйАнализМетодовИКлассов.IntroductionToAccessControl_ВведениеВУправлениеДоступом;
+
+public class IntroductionToAccessControl_ВведениеВУправлениеДоступом {
+
+}

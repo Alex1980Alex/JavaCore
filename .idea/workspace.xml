@@ -5,15 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f73f7879-5112-4636-8a1f-79b66f364bb0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/B_Операции/UsingParentheses_ИспользованиеКруглыхСкобок/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/B_Операции/UsingParentheses_ИспользованиеКруглыхСкобок/UsingParentheses_ИспользованиеКруглыхСкобок.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C_УправляющиеОператоры/IterationOperators_ОператорыИтерации/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C_УправляющиеОператоры/IterationOperators_ОператорыИтерации/IterationOperators_ОператорыИтерации.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C_УправляющиеОператоры/SelectionOperators_ОператорыВыбора/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C_УправляющиеОператоры/SelectionOperators_ОператорыВыбора/SelectionOperators_ОператорыВыбора.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C_УправляющиеОператоры/TransitionOperators_ОператорыПерехода/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C_УправляющиеОператоры/TransitionOperators_ОператорыПерехода/SomeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C_УправляющиеОператоры/TransitionOperators_ОператорыПерехода/TransitionOperators_ОператорыПерехода.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/IntroductionToAccessControl_ВведениеВУправлениеДоступом/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/IntroductionToAccessControl_ВведениеВУправлениеДоступом/IntroductionToAccessControl_ВведениеВУправлениеДоступом.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/IntroductionToAccessControl_ВведениеВУправлениеДоступом/ДемонстрацияМодификаторовДоступа/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/IntroductionToAccessControl_ВведениеВУправлениеДоступом/ДемонстрацияМодификаторовДоступа/MyBaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/IntroductionToAccessControl_ВведениеВУправлениеДоступом/ДемонстрацияМодификаторовДоступа/MySubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/IntroductionToAccessControl_ВведениеВУправлениеДоступом/ДемонстрацияМодификаторовДоступа/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/IntroductionToAccessControl_ВведениеВУправлениеДоступом/ДемонстрацияМодификаторовДоступа/TestAccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/MethodOverloading_ПерегрузкаМетодов/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/MethodOverloading_ПерегрузкаМетодов/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/MethodOverloading_ПерегрузкаМетодов/MethodOverloading_ПерегрузкаМетодов.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/OverloadingConstructors_ПерегрузкаКонструкторов/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/OverloadingConstructors_ПерегрузкаКонструкторов/OverloadingConstructors_ПерегрузкаКонструкторов.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/OverloadingConstructors_ПерегрузкаКонструкторов/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/PassingArguments_ПередачаАргументов/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/PassingArguments_ПередачаАргументов/PassingArguments_ПередачаАргументов.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/Recursion_Рекурсия/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/Recursion_Рекурсия/Recursion_Рекурсия.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/ReturningObjects_ВозвращениеОбъектов/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/ReturningObjects_ВозвращениеОбъектов/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/ReturningObjects_ВозвращениеОбъектов/PersonFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/ReturningObjects_ВозвращениеОбъектов/ReturningObjects_ВозвращениеОбъектов.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/UsingObjectsAsParameters_ИспользованиеОбъектовВКачествеПараметров/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/UsingObjectsAsParameters_ИспользованиеОбъектовВКачествеПараметров/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/UsingObjectsAsParameters_ИспользованиеОбъектовВКачествеПараметров/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/UsingObjectsAsParameters_ИспользованиеОбъектовВКачествеПараметров/PersonProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/UsingObjectsAsParameters_ИспользованиеОбъектовВКачествеПараметров/UsingObjectsAsParameters_ИспользованиеОбъектовВКачествеПараметров.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +62,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/alext/OneDrive/Документы/JavaCore/JavaCore/src/C_УправляющиеОператоры/TransitionOperators_ОператорыПерехода"
+    "last_opened_file_path": "C:/Users/alext/OneDrive/Документы/JavaCore/JavaCore/src/D_ПодробныйАнализМетодовИКлассов/IntroductionToAccessControl_ВведениеВУправлениеДоступом"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -53,20 +70,20 @@
       <recent name="C_УправляющиеОператоры.TransitionOperators_ОператорыПерехода" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\C_УправляющиеОператоры\TransitionOperators_ОператорыПерехода" />
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\C_УправляющиеОператоры\IterationOperators_ОператорыИтерации" />
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\C_УправляющиеОператоры\SelectionOperators_ОператорыВыбора" />
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\B_Операции\UsingParentheses_ИспользованиеКруглыхСкобок" />
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\B_Операции\TernaryOperation_ТернарнаяОперация" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\D_ПодробныйАнализМетодовИКлассов\IntroductionToAccessControl_ВведениеВУправлениеДоступом" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\D_ПодробныйАнализМетодовИКлассов\Recursion_Рекурсия" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\D_ПодробныйАнализМетодовИКлассов\ReturningObjects_ВозвращениеОбъектов" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\D_ПодробныйАнализМетодовИКлассов\PassingArguments_ПередачаАргументов" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\D_ПодробныйАнализМетодовИКлассов\UsingObjectsAsParameters_ИспользованиеОбъектовВКачествеПараметров" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TransitionOperators_ОператорыПерехода">
-    <configuration name="BooleanLogicalOperations_БулевскиеЛогическиеОперации" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B_Операции.BooleanLogicalOperations_БулевскиеЛогическиеОперации.BooleanLogicalOperations_БулевскиеЛогическиеОперации" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D_ПодробныйАнализМетодовИКлассов.IntroductionToAccessControl_ВведениеВУправлениеДоступом.ДемонстрацияМодификаторовДоступа.Main" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="B_Операции.BooleanLogicalOperations_БулевскиеЛогическиеОперации.*" />
+          <option name="PATTERN" value="D_ПодробныйАнализМетодовИКлассов.IntroductionToAccessControl_ВведениеВУправлениеДоступом.ДемонстрацияМодификаторовДоступа.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IterationOperators_ОператорыИтерации" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_УправляющиеОператоры.IterationOperators_ОператорыИтерации.IterationOperators_ОператорыИтерации" />
+    <configuration name="OverloadingConstructors_ПерегрузкаКонструкторов" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D_ПодробныйАнализМетодовИКлассов.OverloadingConstructors_ПерегрузкаКонструкторов.OverloadingConstructors_ПерегрузкаКонструкторов" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C_УправляющиеОператоры.IterationOperators_ОператорыИтерации.*" />
+          <option name="PATTERN" value="D_ПодробныйАнализМетодовИКлассов.OverloadingConstructors_ПерегрузкаКонструкторов.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RelationshipOperations_ОперацииОтношения" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B_Операции.RelationshipOperations_ОперацииОтношения.RelationshipOperations_ОперацииОтношения" />
+    <configuration name="PassingArguments_ПередачаАргументов" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D_ПодробныйАнализМетодовИКлассов.PassingArguments_ПередачаАргументов.PassingArguments_ПередачаАргументов" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="B_Операции.RelationshipOperations_ОперацииОтношения.*" />
+          <option name="PATTERN" value="D_ПодробныйАнализМетодовИКлассов.PassingArguments_ПередачаАргументов.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionOperators_ОператорыВыбора" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_УправляющиеОператоры.SelectionOperators_ОператорыВыбора.SelectionOperators_ОператорыВыбора" />
+    <configuration name="Recursion_Рекурсия" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D_ПодробныйАнализМетодовИКлассов.Recursion_Рекурсия.Recursion_Рекурсия" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C_УправляющиеОператоры.SelectionOperators_ОператорыВыбора.*" />
+          <option name="PATTERN" value="D_ПодробныйАнализМетодовИКлассов.Recursion_Рекурсия.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransitionOperators_ОператорыПерехода" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_УправляющиеОператоры.TransitionOperators_ОператорыПерехода.TransitionOperators_ОператорыПерехода" />
+    <configuration name="UsingObjectsAsParameters_ИспользованиеОбъектовВКачествеПараметров" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D_ПодробныйАнализМетодовИКлассов.UsingObjectsAsParameters_ИспользованиеОбъектовВКачествеПараметров.UsingObjectsAsParameters_ИспользованиеОбъектовВКачествеПараметров" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C_УправляющиеОператоры.TransitionOperators_ОператорыПерехода.*" />
+          <option name="PATTERN" value="D_ПодробныйАнализМетодовИКлассов.UsingObjectsAsParameters_ИспользованиеОбъектовВКачествеПараметров.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TransitionOperators_ОператорыПерехода" />
-        <item itemvalue="Application.IterationOperators_ОператорыИтерации" />
-        <item itemvalue="Application.SelectionOperators_ОператорыВыбора" />
-        <item itemvalue="Application.BooleanLogicalOperations_БулевскиеЛогическиеОперации" />
-        <item itemvalue="Application.RelationshipOperations_ОперацииОтношения" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Recursion_Рекурсия" />
+        <item itemvalue="Application.PassingArguments_ПередачаАргументов" />
+        <item itemvalue="Application.UsingObjectsAsParameters_ИспользованиеОбъектовВКачествеПараметров" />
+        <item itemvalue="Application.OverloadingConstructors_ПерегрузкаКонструкторов" />
       </list>
     </recent_temporary>
   </component>
@@ -146,5 +163,16 @@
       <updated>1694122098733</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/IntroductionToAccessControl_ВведениеВУправлениеДоступом/ДемонстрацияМодификаторовДоступа/Main.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
