@@ -5,33 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f73f7879-5112-4636-8a1f-79b66f364bb0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/IntroductionToAccessControl_ВведениеВУправлениеДоступом/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/IntroductionToAccessControl_ВведениеВУправлениеДоступом/IntroductionToAccessControl_ВведениеВУправлениеДоступом.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/IntroductionToAccessControl_ВведениеВУправлениеДоступом/ДемонстрацияМодификаторовДоступа/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/IntroductionToAccessControl_ВведениеВУправлениеДоступом/ДемонстрацияМодификаторовДоступа/MyBaseClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/IntroductionToAccessControl_ВведениеВУправлениеДоступом/ДемонстрацияМодификаторовДоступа/MySubClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/IntroductionToAccessControl_ВведениеВУправлениеДоступом/ДемонстрацияМодификаторовДоступа/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/IntroductionToAccessControl_ВведениеВУправлениеДоступом/ДемонстрацияМодификаторовДоступа/TestAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/MethodOverloading_ПерегрузкаМетодов/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/MethodOverloading_ПерегрузкаМетодов/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/MethodOverloading_ПерегрузкаМетодов/MethodOverloading_ПерегрузкаМетодов.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/OverloadingConstructors_ПерегрузкаКонструкторов/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/OverloadingConstructors_ПерегрузкаКонструкторов/OverloadingConstructors_ПерегрузкаКонструкторов.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/OverloadingConstructors_ПерегрузкаКонструкторов/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/PassingArguments_ПередачаАргументов/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/PassingArguments_ПередачаАргументов/PassingArguments_ПередачаАргументов.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/Recursion_Рекурсия/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/Recursion_Рекурсия/Recursion_Рекурсия.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/ReturningObjects_ВозвращениеОбъектов/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/ReturningObjects_ВозвращениеОбъектов/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/ReturningObjects_ВозвращениеОбъектов/PersonFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/ReturningObjects_ВозвращениеОбъектов/ReturningObjects_ВозвращениеОбъектов.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/UsingObjectsAsParameters_ИспользованиеОбъектовВКачествеПараметров/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/UsingObjectsAsParameters_ИспользованиеОбъектовВКачествеПараметров/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/UsingObjectsAsParameters_ИспользованиеОбъектовВКачествеПараметров/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/UsingObjectsAsParameters_ИспользованиеОбъектовВКачествеПараметров/PersonProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/UsingObjectsAsParameters_ИспользованиеОбъектовВКачествеПараметров/UsingObjectsAsParameters_ИспользованиеОбъектовВКачествеПараметров.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/ExploringTheStringClass_ИсследованиеКлассаString/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/ExploringTheStringClass_ИсследованиеКлассаString/ExploringTheStringClass_ИсследованиеКлассаString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/IntroductionToAccessControl_ВведениеВУправлениеДоступом/ДемонстрацияМодификаторовДоступа/OtherClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/NestedAndInternalClasses_ВложенныеИВнутренниеКлассы/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/NestedAndInternalClasses_ВложенныеИВнутренниеКлассы/NestedAndInternalClasses_ВложенныеИВнутренниеКлассы.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/NestedAndInternalClasses_ВложенныеИВнутренниеКлассы/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/NestedAndInternalClasses_ВложенныеИВнутренниеКлассы/ПродемонстрироватьПрименениеВнутреннегоКласса/InnerClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/NestedAndInternalClasses_ВложенныеИВнутренниеКлассы/ПродемонстрироватьПрименениеВнутреннегоКласса/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/TheFinalKeyword_КлючевоеСловоFinal/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/TheFinalKeyword_КлючевоеСловоFinal/TheFinalKeyword_КлючевоеСловоFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/TheStaticKeyword_КлючевоеСловоStatic/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/TheStaticKeyword_КлючевоеСловоStatic/TheStaticKeyword_КлючевоеСловоStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/VariableLengthArguments_АргументыПеременнойДлины/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/VariableLengthArguments_АргументыПеременнойДлины/VariableLengthArguments_АргументыПеременнойДлины.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/IntroductionToAccessControl_ВведениеВУправлениеДоступом/Description_Описание.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/IntroductionToAccessControl_ВведениеВУправлениеДоступом/Description_Описание.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/IntroductionToAccessControl_ВведениеВУправлениеДоступом/IntroductionToAccessControl_ВведениеВУправлениеДоступом.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/IntroductionToAccessControl_ВведениеВУправлениеДоступом/IntroductionToAccessControl_ВведениеВУправлениеДоступом.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +52,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/alext/OneDrive/Документы/JavaCore/JavaCore/src/D_ПодробныйАнализМетодовИКлассов/IntroductionToAccessControl_ВведениеВУправлениеДоступом"
+    "last_opened_file_path": "C:/Users/alext/OneDrive/Документы/JavaCore/JavaCore/src/D_ПодробныйАнализМетодовИКлассов/VariableLengthArguments_АргументыПеременнойДлины"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -70,14 +60,27 @@
       <recent name="C_УправляющиеОператоры.TransitionOperators_ОператорыПерехода" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\D_ПодробныйАнализМетодовИКлассов\IntroductionToAccessControl_ВведениеВУправлениеДоступом" />
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\D_ПодробныйАнализМетодовИКлассов\Recursion_Рекурсия" />
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\D_ПодробныйАнализМетодовИКлассов\ReturningObjects_ВозвращениеОбъектов" />
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\D_ПодробныйАнализМетодовИКлассов\PassingArguments_ПередачаАргументов" />
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\D_ПодробныйАнализМетодовИКлассов\UsingObjectsAsParameters_ИспользованиеОбъектовВКачествеПараметров" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\D_ПодробныйАнализМетодовИКлассов\VariableLengthArguments_АргументыПеременнойДлины" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\D_ПодробныйАнализМетодовИКлассов\ExploringTheStringClass_ИсследованиеКлассаString" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\D_ПодробныйАнализМетодовИКлассов\NestedAndInternalClasses_ВложенныеИВнутренниеКлассы" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\D_ПодробныйАнализМетодовИКлассов\TheFinalKeyword_КлючевоеСловоFinal" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\D_ПодробныйАнализМетодовИКлассов\TheStaticKeyword_КлючевоеСловоStatic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.NestedAndInternalClasses_ВложенныеИВнутренниеКлассы">
+    <configuration name="IntroductionToAccessControl_ВведениеВУправлениеДоступом" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D_ПодробныйАнализМетодовИКлассов.IntroductionToAccessControl_ВведениеВУправлениеДоступом.IntroductionToAccessControl_ВведениеВУправлениеДоступом" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D_ПодробныйАнализМетодовИКлассов.IntroductionToAccessControl_ВведениеВУправлениеДоступом.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="D_ПодробныйАнализМетодовИКлассов.IntroductionToAccessControl_ВведениеВУправлениеДоступом.ДемонстрацияМодификаторовДоступа.Main" />
       <module name="JavaCore" />
@@ -91,12 +94,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OverloadingConstructors_ПерегрузкаКонструкторов" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D_ПодробныйАнализМетодовИКлассов.OverloadingConstructors_ПерегрузкаКонструкторов.OverloadingConstructors_ПерегрузкаКонструкторов" />
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D_ПодробныйАнализМетодовИКлассов.IntroductionToAccessControl_ВведениеВУправлениеДоступом.MainClass" />
+      <module name="JavaCore" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NestedAndInternalClasses_ВложенныеИВнутренниеКлассы" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D_ПодробныйАнализМетодовИКлассов.NestedAndInternalClasses_ВложенныеИВнутренниеКлассы.NestedAndInternalClasses_ВложенныеИВнутренниеКлассы" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="D_ПодробныйАнализМетодовИКлассов.OverloadingConstructors_ПерегрузкаКонструкторов.*" />
+          <option name="PATTERN" value="D_ПодробныйАнализМетодовИКлассов.NestedAndInternalClasses_ВложенныеИВнутренниеКлассы.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,38 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PassingArguments_ПередачаАргументов" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D_ПодробныйАнализМетодовИКлассов.PassingArguments_ПередачаАргументов.PassingArguments_ПередачаАргументов" />
+    <configuration name="TheStaticKeyword_КлючевоеСловоStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D_ПодробныйАнализМетодовИКлассов.TheStaticKeyword_КлючевоеСловоStatic.TheStaticKeyword_КлючевоеСловоStatic" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="D_ПодробныйАнализМетодовИКлассов.PassingArguments_ПередачаАргументов.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Recursion_Рекурсия" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D_ПодробныйАнализМетодовИКлассов.Recursion_Рекурсия.Recursion_Рекурсия" />
-      <module name="JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="D_ПодробныйАнализМетодовИКлассов.Recursion_Рекурсия.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UsingObjectsAsParameters_ИспользованиеОбъектовВКачествеПараметров" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D_ПодробныйАнализМетодовИКлассов.UsingObjectsAsParameters_ИспользованиеОбъектовВКачествеПараметров.UsingObjectsAsParameters_ИспользованиеОбъектовВКачествеПараметров" />
-      <module name="JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="D_ПодробныйАнализМетодовИКлассов.UsingObjectsAsParameters_ИспользованиеОбъектовВКачествеПараметров.*" />
+          <option name="PATTERN" value="D_ПодробныйАнализМетодовИКлассов.TheStaticKeyword_КлючевоеСловоStatic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NestedAndInternalClasses_ВложенныеИВнутренниеКлассы" />
+        <item itemvalue="Application.TheStaticKeyword_КлючевоеСловоStatic" />
+        <item itemvalue="Application.IntroductionToAccessControl_ВведениеВУправлениеДоступом" />
+        <item itemvalue="Application.MainClass" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Recursion_Рекурсия" />
-        <item itemvalue="Application.PassingArguments_ПередачаАргументов" />
-        <item itemvalue="Application.UsingObjectsAsParameters_ИспользованиеОбъектовВКачествеПараметров" />
-        <item itemvalue="Application.OverloadingConstructors_ПерегрузкаКонструкторов" />
       </list>
     </recent_temporary>
   </component>
