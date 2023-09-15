@@ -5,23 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f73f7879-5112-4636-8a1f-79b66f364bb0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/ExploringTheStringClass_ИсследованиеКлассаString/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/ExploringTheStringClass_ИсследованиеКлассаString/ExploringTheStringClass_ИсследованиеКлассаString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/IntroductionToAccessControl_ВведениеВУправлениеДоступом/ДемонстрацияМодификаторовДоступа/OtherClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/NestedAndInternalClasses_ВложенныеИВнутренниеКлассы/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/NestedAndInternalClasses_ВложенныеИВнутренниеКлассы/NestedAndInternalClasses_ВложенныеИВнутренниеКлассы.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/NestedAndInternalClasses_ВложенныеИВнутренниеКлассы/OuterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/NestedAndInternalClasses_ВложенныеИВнутренниеКлассы/ПродемонстрироватьПрименениеВнутреннегоКласса/InnerClassDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/NestedAndInternalClasses_ВложенныеИВнутренниеКлассы/ПродемонстрироватьПрименениеВнутреннегоКласса/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/TheFinalKeyword_КлючевоеСловоFinal/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/TheFinalKeyword_КлючевоеСловоFinal/TheFinalKeyword_КлючевоеСловоFinal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/TheStaticKeyword_КлючевоеСловоStatic/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/TheStaticKeyword_КлючевоеСловоStatic/TheStaticKeyword_КлючевоеСловоStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/VariableLengthArguments_АргументыПеременнойДлины/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/VariableLengthArguments_АргументыПеременнойДлины/VariableLengthArguments_АргументыПеременнойДлины.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/ASuperclassTypeVariableCanReferToASubclassObject_ПеременнаяТипаСуперклассаМожетСсылатьсяНаОбъектПодкласса/ASuperClassTypeVariableCanReferToASubclassObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/ASuperclassTypeVariableCanReferToASubclassObject_ПеременнаяТипаСуперклассаМожетСсылатьсяНаОбъектПодкласса/Chapter/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/ASuperclassTypeVariableCanReferToASubclassObject_ПеременнаяТипаСуперклассаМожетСсылатьсяНаОбъектПодкласса/Chapter/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/ASuperclassTypeVariableCanReferToASubclassObject_ПеременнаяТипаСуперклассаМожетСсылатьсяНаОбъектПодкласса/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/BasicsOfInheritance_ОсновыНаследования/BasicsOfInheritance_ОсновыНаследования.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/BasicsOfInheritance_ОсновыНаследования/Chapter/SubB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/BasicsOfInheritance_ОсновыНаследования/Chapter/SuperA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/BasicsOfInheritance_ОсновыНаследования/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/MemberAccessAndInheritance_ДоступКЧленамИНаследование/Chapter/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/MemberAccessAndInheritance_ДоступКЧленамИНаследование/Chapter/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/MemberAccessAndInheritance_ДоступКЧленамИНаследование/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/MemberAccessAndInheritance_ДоступКЧленамИНаследование/MemberAccessAndInheritance_ДоступКЧленамИНаследование.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/UsingTheSuperKeyword_ИспользованиеКлючевогоСловаSuper/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/UsingTheSuperKeyword_ИспользованиеКлючевогоСловаSuper/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/UsingTheSuperKeyword_ИспользованиеКлючевогоСловаSuper/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/UsingTheSuperKeyword_ИспользованиеКлючевогоСловаSuper/UsingTheSuperKeyword_ИспользованиеКлючевогоСловаSuper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/IntroductionToAccessControl_ВведениеВУправлениеДоступом/Description_Описание.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/IntroductionToAccessControl_ВведениеВУправлениеДоступом/Description_Описание.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/IntroductionToAccessControl_ВведениеВУправлениеДоступом/IntroductionToAccessControl_ВведениеВУправлениеДоступом.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/IntroductionToAccessControl_ВведениеВУправлениеДоступом/IntroductionToAccessControl_ВведениеВУправлениеДоступом.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/VariableLengthArguments_АргументыПеременнойДлины/Description_Описание.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/VariableLengthArguments_АргументыПеременнойДлины/Description_Описание.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/alext/OneDrive/Документы/JavaCore/JavaCore/src/D_ПодробныйАнализМетодовИКлассов/VariableLengthArguments_АргументыПеременнойДлины"
+    "last_opened_file_path": "C:/Users/alext/OneDrive/Документы/JavaCore/JavaCore/src/E_Наследование/UsingTheSuperKeyword_ИспользованиеКлючевогоСловаSuper"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -60,20 +61,20 @@
       <recent name="C_УправляющиеОператоры.TransitionOperators_ОператорыПерехода" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\E_Наследование\UsingTheSuperKeyword_ИспользованиеКлючевогоСловаSuper" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\E_Наследование\ASuperclassTypeVariableCanReferToASubclassObject_ПеременнаяТипаСуперклассаМожетСсылатьсяНаОбъектПодкласса" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\E_Наследование\MemberAccessAndInheritance_ДоступКЧленамИНаследование" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\E_Наследование\BasicsOfInheritance_ОсновыНаследования" />
       <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\D_ПодробныйАнализМетодовИКлассов\VariableLengthArguments_АргументыПеременнойДлины" />
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\D_ПодробныйАнализМетодовИКлассов\ExploringTheStringClass_ИсследованиеКлассаString" />
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\D_ПодробныйАнализМетодовИКлассов\NestedAndInternalClasses_ВложенныеИВнутренниеКлассы" />
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\D_ПодробныйАнализМетодовИКлассов\TheFinalKeyword_КлючевоеСловоFinal" />
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\D_ПодробныйАнализМетодовИКлассов\TheStaticKeyword_КлючевоеСловоStatic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NestedAndInternalClasses_ВложенныеИВнутренниеКлассы">
-    <configuration name="IntroductionToAccessControl_ВведениеВУправлениеДоступом" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D_ПодробныйАнализМетодовИКлассов.IntroductionToAccessControl_ВведениеВУправлениеДоступом.IntroductionToAccessControl_ВведениеВУправлениеДоступом" />
+  <component name="RunManager" selected="Application.UsingTheSuperKeyword_ИспользованиеКлючевогоСловаSuper">
+    <configuration name="ASuperClassTypeVariableCanReferToASubclassObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E_Наследование.ASuperclassTypeVariableCanReferToASubclassObject_ПеременнаяТипаСуперклассаМожетСсылатьсяНаОбъектПодкласса.ASuperClassTypeVariableCanReferToASubclassObject" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="D_ПодробныйАнализМетодовИКлассов.IntroductionToAccessControl_ВведениеВУправлениеДоступом.*" />
+          <option name="PATTERN" value="E_Наследование.ASuperclassTypeVariableCanReferToASubclassObject_ПеременнаяТипаСуперклассаМожетСсылатьсяНаОбъектПодкласса.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,22 +82,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D_ПодробныйАнализМетодовИКлассов.IntroductionToAccessControl_ВведениеВУправлениеДоступом.ДемонстрацияМодификаторовДоступа.Main" />
+    <configuration name="BasicsOfInheritance_ОсновыНаследования" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E_Наследование.BasicsOfInheritance_ОсновыНаследования.BasicsOfInheritance_ОсновыНаследования" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="D_ПодробныйАнализМетодовИКлассов.IntroductionToAccessControl_ВведениеВУправлениеДоступом.ДемонстрацияМодификаторовДоступа.*" />
+          <option name="PATTERN" value="E_Наследование.BasicsOfInheritance_ОсновыНаследования.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D_ПодробныйАнализМетодовИКлассов.IntroductionToAccessControl_ВведениеВУправлениеДоступом.MainClass" />
-      <module name="JavaCore" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -114,12 +108,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TheStaticKeyword_КлючевоеСловоStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D_ПодробныйАнализМетодовИКлассов.TheStaticKeyword_КлючевоеСловоStatic.TheStaticKeyword_КлючевоеСловоStatic" />
+    <configuration name="UsingTheSuperKeyword_ИспользованиеКлючевогоСловаSuper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E_Наследование.UsingTheSuperKeyword_ИспользованиеКлючевогоСловаSuper.UsingTheSuperKeyword_ИспользованиеКлючевогоСловаSuper" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="D_ПодробныйАнализМетодовИКлассов.TheStaticKeyword_КлючевоеСловоStatic.*" />
+          <option name="PATTERN" value="E_Наследование.UsingTheSuperKeyword_ИспользованиеКлючевогоСловаSuper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VariableLengthArguments_АргументыПеременнойДлины" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D_ПодробныйАнализМетодовИКлассов.VariableLengthArguments_АргументыПеременнойДлины.VariableLengthArguments_АргументыПеременнойДлины" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D_ПодробныйАнализМетодовИКлассов.VariableLengthArguments_АргументыПеременнойДлины.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UsingTheSuperKeyword_ИспользованиеКлючевогоСловаSuper" />
+        <item itemvalue="Application.ASuperClassTypeVariableCanReferToASubclassObject" />
+        <item itemvalue="Application.BasicsOfInheritance_ОсновыНаследования" />
+        <item itemvalue="Application.VariableLengthArguments_АргументыПеременнойДлины" />
         <item itemvalue="Application.NestedAndInternalClasses_ВложенныеИВнутренниеКлассы" />
-        <item itemvalue="Application.TheStaticKeyword_КлючевоеСловоStatic" />
-        <item itemvalue="Application.IntroductionToAccessControl_ВведениеВУправлениеДоступом" />
-        <item itemvalue="Application.MainClass" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>

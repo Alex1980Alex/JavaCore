@@ -1,0 +1,4 @@
+package E_Наследование.MemberAccessAndInheritance_ДоступКЧленамИНаследование;
+
+public class MemberAccessAndInheritance_ДоступКЧленамИНаследование {
+}
