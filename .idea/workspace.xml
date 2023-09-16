@@ -5,24 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f73f7879-5112-4636-8a1f-79b66f364bb0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/ASuperclassTypeVariableCanReferToASubclassObject_ПеременнаяТипаСуперклассаМожетСсылатьсяНаОбъектПодкласса/ASuperClassTypeVariableCanReferToASubclassObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/ASuperclassTypeVariableCanReferToASubclassObject_ПеременнаяТипаСуперклассаМожетСсылатьсяНаОбъектПодкласса/Chapter/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/ASuperclassTypeVariableCanReferToASubclassObject_ПеременнаяТипаСуперклассаМожетСсылатьсяНаОбъектПодкласса/Chapter/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/ASuperclassTypeVariableCanReferToASubclassObject_ПеременнаяТипаСуперклассаМожетСсылатьсяНаОбъектПодкласса/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/BasicsOfInheritance_ОсновыНаследования/BasicsOfInheritance_ОсновыНаследования.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/BasicsOfInheritance_ОсновыНаследования/Chapter/SubB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/BasicsOfInheritance_ОсновыНаследования/Chapter/SuperA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/BasicsOfInheritance_ОсновыНаследования/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/MemberAccessAndInheritance_ДоступКЧленамИНаследование/Chapter/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/MemberAccessAndInheritance_ДоступКЧленамИНаследование/Chapter/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/MemberAccessAndInheritance_ДоступКЧленамИНаследование/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/MemberAccessAndInheritance_ДоступКЧленамИНаследование/MemberAccessAndInheritance_ДоступКЧленамИНаследование.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/UsingTheSuperKeyword_ИспользованиеКлючевогоСловаSuper/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/UsingTheSuperKeyword_ИспользованиеКлючевогоСловаSuper/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/UsingTheSuperKeyword_ИспользованиеКлючевогоСловаSuper/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/UsingTheSuperKeyword_ИспользованиеКлючевогоСловаSuper/UsingTheSuperKeyword_ИспользованиеКлючевогоСловаSuper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/CreatingAMulti_levelHierarchy_СозданиеМногоуровневойИерархии/Chapter/Box05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/CreatingAMulti_levelHierarchy_СозданиеМногоуровневойИерархии/Chapter/BoxCost05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/CreatingAMulti_levelHierarchy_СозданиеМногоуровневойИерархии/Chapter/BoxWeight05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/CreatingAMulti_levelHierarchy_СозданиеМногоуровневойИерархии/Chapter/DemoShipment05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/CreatingAMulti_levelHierarchy_СозданиеМногоуровневойИерархии/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/DispatchingDynamicMethods_ДиспетчеризацииДинамическихМетодов/Chapter/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/DispatchingDynamicMethods_ДиспетчеризацииДинамическихМетодов/Chapter/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/DispatchingDynamicMethods_ДиспетчеризацииДинамическихМетодов/Chapter/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/DispatchingDynamicMethods_ДиспетчеризацииДинамическихМетодов/Chapter/DynamicMethodDispatching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/DispatchingDynamicMethods_ДиспетчеризацииДинамическихМетодов/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/RedefiningMethods_ПереопределениеМетодов/Chapter_ПерегрузкаМетодов/OverloadMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/RedefiningMethods_ПереопределениеМетодов/Chapter_ПерегрузкаМетодов/SubF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/RedefiningMethods_ПереопределениеМетодов/Chapter_ПерегрузкаМетодов/SupE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/RedefiningMethods_ПереопределениеМетодов/ChapterПереопределениеМетодов/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/RedefiningMethods_ПереопределениеМетодов/ChapterПереопределениеМетодов/F.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/RedefiningMethods_ПереопределениеМетодов/ChapterПереопределениеМетодов/OverrideMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/RedefiningMethods_ПереопределениеМетодов/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/UsingAbstractClasses_ИспользованиеАбстрактныхКлассов/Chapter/AbstractDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/UsingAbstractClasses_ИспользованиеАбстрактныхКлассов/Chapter/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/UsingAbstractClasses_ИспользованиеАбстрактныхКлассов/Chapter/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/UsingAbstractClasses_ИспользованиеАбстрактныхКлассов/Chapter/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/UsingAbstractClasses_ИспользованиеАбстрактныхКлассов/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/UsingTheFinalKeywordWithInheritance_ИспользованиеКлючевогоСловаFinalСНаследованием/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/WhenConstructorsAreExecuted_КогдаКонструкторыВыполняются/Chapter/CallingConstr06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/WhenConstructorsAreExecuted_КогдаКонструкторыВыполняются/Chapter/subB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/WhenConstructorsAreExecuted_КогдаКонструкторыВыполняются/Chapter/subC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/WhenConstructorsAreExecuted_КогдаКонструкторыВыполняются/Chapter/supA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/WhenConstructorsAreExecuted_КогдаКонструкторыВыполняются/Description_Описание.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/VariableLengthArguments_АргументыПеременнойДлины/Description_Описание.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/D_ПодробныйАнализМетодовИКлассов/VariableLengthArguments_АргументыПеременнойДлины/Description_Описание.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +64,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/alext/OneDrive/Документы/JavaCore/JavaCore/src/E_Наследование/UsingTheSuperKeyword_ИспользованиеКлючевогоСловаSuper"
+    "last_opened_file_path": "C:/Users/alext/OneDrive/Документы/JavaCore/JavaCore/src/E_Наследование/UsingTheFinalKeywordWithInheritance_ИспользованиеКлючевогоСловаFinalСНаследованием"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -61,14 +72,14 @@
       <recent name="C_УправляющиеОператоры.TransitionOperators_ОператорыПерехода" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\E_Наследование\UsingTheSuperKeyword_ИспользованиеКлючевогоСловаSuper" />
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\E_Наследование\ASuperclassTypeVariableCanReferToASubclassObject_ПеременнаяТипаСуперклассаМожетСсылатьсяНаОбъектПодкласса" />
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\E_Наследование\MemberAccessAndInheritance_ДоступКЧленамИНаследование" />
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\E_Наследование\BasicsOfInheritance_ОсновыНаследования" />
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\D_ПодробныйАнализМетодовИКлассов\VariableLengthArguments_АргументыПеременнойДлины" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\E_Наследование\UsingTheFinalKeywordWithInheritance_ИспользованиеКлючевогоСловаFinalСНаследованием" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\E_Наследование\UsingAbstractClasses_ИспользованиеАбстрактныхКлассов" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\E_НаследованиеDispatchingDynamicMethods_ДиспетчеризацииДинамическихМетодов" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\E_Наследование\RedefiningMethods_ПереопределениеМетодов" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\E_Наследование\WhenConstructorsAreExecuted_КогдаКонструкторыВыполняются" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UsingTheSuperKeyword_ИспользованиеКлючевогоСловаSuper">
+  <component name="RunManager" selected="Application.DemoShipment05">
     <configuration name="ASuperClassTypeVariableCanReferToASubclassObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="E_Наследование.ASuperclassTypeVariableCanReferToASubclassObject_ПеременнаяТипаСуперклассаМожетСсылатьсяНаОбъектПодкласса.ASuperClassTypeVariableCanReferToASubclassObject" />
       <module name="JavaCore" />
@@ -95,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedAndInternalClasses_ВложенныеИВнутренниеКлассы" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D_ПодробныйАнализМетодовИКлассов.NestedAndInternalClasses_ВложенныеИВнутренниеКлассы.NestedAndInternalClasses_ВложенныеИВнутренниеКлассы" />
+    <configuration name="DemoShipment05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E_Наследование.CreatingAMulti_levelHierarchy_СозданиеМногоуровневойИерархии.Chapter.DemoShipment05" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="D_ПодробныйАнализМетодовИКлассов.NestedAndInternalClasses_ВложенныеИВнутренниеКлассы.*" />
+          <option name="PATTERN" value="E_Наследование.CreatingAMulti_levelHierarchy_СозданиеМногоуровневойИерархии.Chapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoShipment05" />
         <item itemvalue="Application.UsingTheSuperKeyword_ИспользованиеКлючевогоСловаSuper" />
         <item itemvalue="Application.ASuperClassTypeVariableCanReferToASubclassObject" />
         <item itemvalue="Application.BasicsOfInheritance_ОсновыНаследования" />
         <item itemvalue="Application.VariableLengthArguments_АргументыПеременнойДлины" />
-        <item itemvalue="Application.NestedAndInternalClasses_ВложенныеИВнутренниеКлассы" />
       </list>
     </recent_temporary>
   </component>
