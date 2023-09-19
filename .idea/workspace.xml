@@ -5,34 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f73f7879-5112-4636-8a1f-79b66f364bb0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/CreatingAMulti_levelHierarchy_СозданиеМногоуровневойИерархии/Chapter/Box05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/CreatingAMulti_levelHierarchy_СозданиеМногоуровневойИерархии/Chapter/BoxCost05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/CreatingAMulti_levelHierarchy_СозданиеМногоуровневойИерархии/Chapter/BoxWeight05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/CreatingAMulti_levelHierarchy_СозданиеМногоуровневойИерархии/Chapter/DemoShipment05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/CreatingAMulti_levelHierarchy_СозданиеМногоуровневойИерархии/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/DispatchingDynamicMethods_ДиспетчеризацииДинамическихМетодов/Chapter/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/DispatchingDynamicMethods_ДиспетчеризацииДинамическихМетодов/Chapter/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/DispatchingDynamicMethods_ДиспетчеризацииДинамическихМетодов/Chapter/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/DispatchingDynamicMethods_ДиспетчеризацииДинамическихМетодов/Chapter/DynamicMethodDispatching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/DispatchingDynamicMethods_ДиспетчеризацииДинамическихМетодов/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/RedefiningMethods_ПереопределениеМетодов/Chapter_ПерегрузкаМетодов/OverloadMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/RedefiningMethods_ПереопределениеМетодов/Chapter_ПерегрузкаМетодов/SubF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/RedefiningMethods_ПереопределениеМетодов/Chapter_ПерегрузкаМетодов/SupE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/RedefiningMethods_ПереопределениеМетодов/ChapterПереопределениеМетодов/E.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/RedefiningMethods_ПереопределениеМетодов/ChapterПереопределениеМетодов/F.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/RedefiningMethods_ПереопределениеМетодов/ChapterПереопределениеМетодов/OverrideMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/RedefiningMethods_ПереопределениеМетодов/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/UsingAbstractClasses_ИспользованиеАбстрактныхКлассов/Chapter/AbstractDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/UsingAbstractClasses_ИспользованиеАбстрактныхКлассов/Chapter/Figure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/UsingAbstractClasses_ИспользованиеАбстрактныхКлассов/Chapter/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/UsingAbstractClasses_ИспользованиеАбстрактныхКлассов/Chapter/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/UsingAbstractClasses_ИспользованиеАбстрактныхКлассов/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/UsingTheFinalKeywordWithInheritance_ИспользованиеКлючевогоСловаFinalСНаследованием/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/WhenConstructorsAreExecuted_КогдаКонструкторыВыполняются/Chapter/CallingConstr06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/WhenConstructorsAreExecuted_КогдаКонструкторыВыполняются/Chapter/subB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/WhenConstructorsAreExecuted_КогдаКонструкторыВыполняются/Chapter/subC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/WhenConstructorsAreExecuted_КогдаКонструкторыВыполняются/Chapter/supA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/WhenConstructorsAreExecuted_КогдаКонструкторыВыполняются/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Наследование/Object/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/ClosedInterfaceMethods_ЗакрытыеМетодыИнтерфейса/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/DemonstratingTheUseOfAccessModifiers_ДемонстрацияИспользованияМодификаторовДоступа/Chapter/pkg01/Derived.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/DemonstratingTheUseOfAccessModifiers_ДемонстрацияИспользованияМодификаторовДоступа/Chapter/pkg01/MainDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/DemonstratingTheUseOfAccessModifiers_ДемонстрацияИспользованияМодификаторовДоступа/Chapter/pkg01/Protection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/DemonstratingTheUseOfAccessModifiers_ДемонстрацияИспользованияМодификаторовДоступа/Chapter/pkg01/SamePackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/DemonstratingTheUseOfAccessModifiers_ДемонстрацияИспользованияМодификаторовДоступа/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/DemonstratingTheUseOfAccessModifiers_ДемонстрацияИспользованияМодификаторовДоступа/pkg02/MainDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/DemonstratingTheUseOfAccessModifiers_ДемонстрацияИспользованияМодификаторовДоступа/pkg02/OtherPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/DemonstratingTheUseOfAccessModifiers_ДемонстрацияИспользованияМодификаторовДоступа/pkg02/Protection2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/ExpandingInterfaces_РасширениеИнтерфейсов/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/ExpandingInterfaces_РасширениеИнтерфейсов/ExtendsInterfaces/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/ExpandingInterfaces_РасширениеИнтерфейсов/ExtendsInterfaces/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/ExpandingInterfaces_РасширениеИнтерфейсов/ExtendsInterfaces/IFExtend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/ExpandingInterfaces_РасширениеИнтерфейсов/ExtendsInterfaces/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/Interfaces_Интерфейсы/ChapterInterfaces/Callback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/Interfaces_Интерфейсы/ChapterInterfaces/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/Interfaces_Интерфейсы/ChapterInterfaces/TestIface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/Interfaces_Интерфейсы/ChapterInterfaces_2/Client_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/Interfaces_Интерфейсы/ChapterInterfaces_2/TestIfac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/Interfaces_Интерфейсы/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/NestedInterfaces_ВложенныеИнтерфейсы/ChapterStack/DynStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/NestedInterfaces_ВложенныеИнтерфейсы/ChapterStack/FixedStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/NestedInterfaces_ВложенныеИнтерфейсы/ChapterStack/IFTestЗ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/NestedInterfaces_ВложенныеИнтерфейсы/ChapterStack/IntStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/NestedInterfaces_ВложенныеИнтерфейсы/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/NestedInterfaces_ВложенныеИнтерфейсы/NestedInterfaces/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/NestedInterfaces_ВложенныеИнтерфейсы/NestedInterfaces/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/NestedInterfaces_ВложенныеИнтерфейсы/NestedInterfaces/NestedIFDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/StandardInterfaceMethods_СтандартныеМетодыИнтерфейса/DefaultMethod/DefaultMethMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/StandardInterfaceMethods_СтандартныеМетодыИнтерфейса/DefaultMethod/DefaultMethMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/StandardInterfaceMethods_СтандартныеМетодыИнтерфейса/DefaultMethod/MyIF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/StandardInterfaceMethods_СтандартныеМетодыИнтерфейса/DefaultMethod/MyIFImp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/StandardInterfaceMethods_СтандартныеМетодыИнтерфейса/DefaultMethod/MyIFImp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/StandardInterfaceMethods_СтандартныеМетодыИнтерфейса/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/UsingStaticMethodsInTheInterface_ИспользованиеСтатическихМетодовВИнтерфейсе/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/VariablesInInterfaces_ПеременныеВИнтерфейсах/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/VariablesInInterfaces_ПеременныеВИнтерфейсах/VariablesInInterfaces/AskМe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/VariablesInInterfaces_ПеременныеВИнтерфейсах/VariablesInInterfaces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/VariablesInInterfaces_ПеременныеВИнтерфейсах/VariablesInInterfaces/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/VariablesInInterfaces_ПеременныеВИнтерфейсах/VariablesInInterfaces/SharedConstants.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +56,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -64,7 +78,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/alext/OneDrive/Документы/JavaCore/JavaCore/src/E_Наследование/UsingTheFinalKeywordWithInheritance_ИспользованиеКлючевогоСловаFinalСНаследованием"
+    "last_opened_file_path": "C:/Users/alext/OneDrive/Документы/JavaCore/JavaCore/src/F_ПакетыИИнтерфейсы/ClosedInterfaceMethods_ЗакрытыеМетодыИнтерфейса"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -72,20 +86,20 @@
       <recent name="C_УправляющиеОператоры.TransitionOperators_ОператорыПерехода" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\E_Наследование\UsingTheFinalKeywordWithInheritance_ИспользованиеКлючевогоСловаFinalСНаследованием" />
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\E_Наследование\UsingAbstractClasses_ИспользованиеАбстрактныхКлассов" />
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\E_НаследованиеDispatchingDynamicMethods_ДиспетчеризацииДинамическихМетодов" />
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\E_Наследование\RedefiningMethods_ПереопределениеМетодов" />
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\E_Наследование\WhenConstructorsAreExecuted_КогдаКонструкторыВыполняются" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\F_ПакетыИИнтерфейсы\ClosedInterfaceMethods_ЗакрытыеМетодыИнтерфейса" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\F_ПакетыИИнтерфейсы\UsingStaticMethodsInTheInterface_ИспользованиеСтатическихМетодовВИнтерфейсе" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\F_ПакетыИИнтерфейсы\StandardInterfaceMethods_СтандартныеМетодыИнтерфейса" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\F_ПакетыИИнтерфейсы\ExpandingInterfaces_РасширениеИнтерфейсов" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\F_ПакетыИИнтерфейсы\VariablesInInterfaces_ПеременныеВИнтерфейсах" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DemoShipment05">
-    <configuration name="ASuperClassTypeVariableCanReferToASubclassObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="E_Наследование.ASuperclassTypeVariableCanReferToASubclassObject_ПеременнаяТипаСуперклассаМожетСсылатьсяНаОбъектПодкласса.ASuperClassTypeVariableCanReferToASubclassObject" />
+  <component name="RunManager" selected="Application.DefaultMethMain2">
+    <configuration name="DefaultMethMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="F_ПакетыИИнтерфейсы.StandardInterfaceMethods_СтандартныеМетодыИнтерфейса.DefaultMethod.DefaultMethMain" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="E_Наследование.ASuperclassTypeVariableCanReferToASubclassObject_ПеременнаяТипаСуперклассаМожетСсылатьсяНаОбъектПодкласса.*" />
+          <option name="PATTERN" value="F_ПакетыИИнтерфейсы.StandardInterfaceMethods_СтандартныеМетодыИнтерфейса.DefaultMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasicsOfInheritance_ОсновыНаследования" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="E_Наследование.BasicsOfInheritance_ОсновыНаследования.BasicsOfInheritance_ОсновыНаследования" />
+    <configuration name="DefaultMethMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="F_ПакетыИИнтерфейсы.StandardInterfaceMethods_СтандартныеМетодыИнтерфейса.DefaultMethod.DefaultMethMain2" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="E_Наследование.BasicsOfInheritance_ОсновыНаследования.*" />
+          <option name="PATTERN" value="F_ПакетыИИнтерфейсы.StandardInterfaceMethods_СтандартныеМетодыИнтерфейса.DefaultMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoShipment05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="E_Наследование.CreatingAMulti_levelHierarchy_СозданиеМногоуровневойИерархии.Chapter.DemoShipment05" />
+    <configuration name="IFExtend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="F_ПакетыИИнтерфейсы.ExpandingInterfaces_РасширениеИнтерфейсов.ExtendsInterfaces.IFExtend" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="E_Наследование.CreatingAMulti_levelHierarchy_СозданиеМногоуровневойИерархии.Chapter.*" />
+          <option name="PATTERN" value="F_ПакетыИИнтерфейсы.ExpandingInterfaces_РасширениеИнтерфейсов.ExtendsInterfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsingTheSuperKeyword_ИспользованиеКлючевогоСловаSuper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="E_Наследование.UsingTheSuperKeyword_ИспользованиеКлючевогоСловаSuper.UsingTheSuperKeyword_ИспользованиеКлючевогоСловаSuper" />
+    <configuration name="IFTestЗ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="F_ПакетыИИнтерфейсы.NestedInterfaces_ВложенныеИнтерфейсы.ChapterStack.IFTestЗ" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="E_Наследование.UsingTheSuperKeyword_ИспользованиеКлючевогоСловаSuper.*" />
+          <option name="PATTERN" value="F_ПакетыИИнтерфейсы.NestedInterfaces_ВложенныеИнтерфейсы.ChapterStack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariableLengthArguments_АргументыПеременнойДлины" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D_ПодробныйАнализМетодовИКлассов.VariableLengthArguments_АргументыПеременнойДлины.VariableLengthArguments_АргументыПеременнойДлины" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="F_ПакетыИИнтерфейсы.VariablesInInterfaces_ПеременныеВИнтерфейсах.VariablesInInterfaces.Main" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="D_ПодробныйАнализМетодовИКлассов.VariableLengthArguments_АргументыПеременнойДлины.*" />
+          <option name="PATTERN" value="F_ПакетыИИнтерфейсы.VariablesInInterfaces_ПеременныеВИнтерфейсах.VariablesInInterfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DemoShipment05" />
-        <item itemvalue="Application.UsingTheSuperKeyword_ИспользованиеКлючевогоСловаSuper" />
-        <item itemvalue="Application.ASuperClassTypeVariableCanReferToASubclassObject" />
-        <item itemvalue="Application.BasicsOfInheritance_ОсновыНаследования" />
-        <item itemvalue="Application.VariableLengthArguments_АргументыПеременнойДлины" />
+        <item itemvalue="Application.DefaultMethMain2" />
+        <item itemvalue="Application.DefaultMethMain" />
+        <item itemvalue="Application.IFExtend" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.IFTestЗ" />
       </list>
     </recent_temporary>
   </component>

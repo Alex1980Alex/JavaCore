@@ -1,0 +1,46 @@
+В Java переменные, объявленные в интерфейсах, называются "константами"
+или "статическими финальными полями".
+Переменные в интерфейсах автоматически считаются public, static и final,
+что означает, что они доступны из любого места программы,
+являются статическими (принадлежат самому интерфейсу, а не экземпляру класса),
+и их значение не может быть изменено после инициализации.
+
+Вот пример объявления переменных в интерфейсе:
+public interface MyInterface {
+    int MAX_VALUE = 100; // Это константа (public static final int MAX_VALUE = 100;)
+
+    // Это тоже константа (public static final String NAME = "MyInterface");
+    String NAME = "MyInterface";
+
+    // Методы интерфейса (обычно абстрактные, но не обязательно)
+    void method1();
+    void method2();
+}
+Здесь MAX_VALUE и NAME - это переменные в интерфейсе MyInterface,
+и они являются константами.
+Их значения не могут быть изменены после их инициализации, и они доступны через интерфейс,
+как MyInterface.MAX_VALUE и MyInterface.NAME.
+
+Когда класс реализует интерфейс, он должен предоставить реализацию всех методов интерфейса,
+включая методы, но не обязательно должен переопределять переменные интерфейса,
+поскольку они являются константами.
+
+Пример использования интерфейса с переменными:
+public class MyClass implements MyInterface {
+    @Override
+    public void method1() {
+        // Реализация method1
+    }
+
+    @Override
+    public void method2() {
+        // Реализация method2
+    }
+
+    public static void main(String[] args) {
+        System.out.println(MyInterface.MAX_VALUE); // Выводит 100
+        System.out.println(MyInterface.NAME); // Выводит "MyInterface"
+    }
+}
+В этом примере класс MyClass реализует интерфейс MyInterface
+и может использовать константы MAX_VALUE и NAME из этого интерфейса.

@@ -1,0 +1,61 @@
+В Java вложенные интерфейсы - это интерфейсы, объявленные внутри других интерфейсов или классов.
+Они используются для организации кода, создания логически связанных групп методов
+и абстрактных операций.
+Вложенные интерфейсы могут быть полезными в случаях, когда набор методов тесно связан
+с определенным контекстом или функциональностью.
+
+Вот пример объявления вложенного интерфейса в Java:
+public interface OuterInterface {
+    void outerMethod();
+
+    // Вложенный интерфейс
+    interface InnerInterface {
+        void innerMethod();
+    }
+}
+Здесь OuterInterface объявляет вложенный интерфейс InnerInterface.
+Когда класс реализует OuterInterface, он также может реализовать InnerInterface
+и предоставить реализации методов обоих интерфейсов.
+
+Пример использования вложенных интерфейсов:
+public class MyClass implements OuterInterface, OuterInterface.InnerInterface {
+    @Override
+    public void outerMethod() {
+        // Реализация метода outerMethod
+    }
+
+    @Override
+    public void innerMethod() {
+        // Реализация метода innerMethod
+    }
+}
+Обратите внимание, что вложенный интерфейс может быть статическим
+(т.е., объявленным с использованием модификатора static).
+Статические вложенные интерфейсы могут использоваться без создания экземпляра
+внешнего интерфейса или класса.
+
+Например:
+public interface OuterInterface {
+    void outerMethod();
+
+    // Статический вложенный интерфейс
+    static interface InnerStaticInterface {
+        void innerStaticMethod();
+    }
+}
+Здесь InnerStaticInterface - это статический вложенный интерфейс,
+объявленный внутри OuterInterface.
+Этот интерфейс может быть использован без создания экземпляра OuterInterface.
+
+Пример его использования:
+public class Example implements OuterInterface.InnerStaticInterface {
+    @Override
+    public void innerStaticMethod() {
+        // Реализация метода innerStaticMethod
+    }
+
+    public static void main(String[] args) {
+        Example example = new Example();
+        example.innerStaticMethod();
+    }
+}

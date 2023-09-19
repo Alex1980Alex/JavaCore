@@ -1,0 +1,78 @@
+Использование модификаторов доступа в пакетах в Java позволяет контролировать видимость классов,
+методов и полей внутри пакета.
+Давайте рассмотрим пример с несколькими классами в одном пакете и покажем,
+какие модификаторы доступа могут быть использованы.
+
+Предположим, у вас есть пакет com.example, в котором находятся следующие классы:
+
+1.Person.java (public):
+Этот класс имеет модификатор доступа public, что означает,
+что он доступен из любого места в вашей программе и из других пакетов.
+
+package com.example;
+public class Person {
+    public String name;
+
+    public Person(String name) {
+        this.name = name;
+    }
+}
+
+2. Student.java (default/package-private):
+Этот класс не имеет явного модификатора доступа (по умолчанию), что означает,
+что он доступен только внутри того же пакета (com.example).
+
+package com.example;
+class Student {
+    String studentId;
+
+    Student(String studentId) {
+        this.studentId = studentId;
+    }
+}
+
+3. Teacher.java (private):
+Этот класс имеет модификатор доступа private, что означает,
+что он доступен только внутри этого класса. Таким образом, он недоступен из других классов,
+даже из того же пакета.
+
+package com.example;
+class Teacher {
+    private String subject;
+
+    Teacher(String subject) {
+        this.subject = subject;
+    }
+
+    private void teach() {
+        System.out.println("Teaching " + subject);
+    }
+}
+
+School.java (public):
+Этот класс также имеет модификатор доступа public и может быть доступен из других пакетов.
+
+package com.example;
+public class School {
+    public static void main(String[] args) {
+        Person person = new Person("John");
+        System.out.println("Person's name: " + person.name);
+
+        Student student = new Student("S12345");
+        System.out.println("Student ID: " + student.studentId);
+
+        Teacher teacher = new Teacher("Math");
+        // Эта строка вызовет ошибку компиляции, так как метод teach() является private
+        // teacher.teach();
+    }
+}
+В этом примере модификаторы доступа public, default (отсутствие модификатора) и
+private использованы для управления видимостью классов и их членов внутри пакета com.example.
+Как видите, классы и поля с разными модификаторами доступа имеют разные уровни видимости
+и доступности из других частей вашей программы.
+
+
+
+
+
+
