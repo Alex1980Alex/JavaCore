@@ -1,0 +1,82 @@
+Обработка исключений в Java позволяет разработчикам обрабатывать ошибки и неожиданные ситуации,
+которые могут возникнуть в процессе выполнения программы.
+Ошибки и исключения в Java представлены объектами, которые наследуются от класса Throwable.
+
+Существует два основных типа исключений в Java:
+- проверяемые (checked exceptions)
+- непроверяемые (unchecked exceptions)
+
+1. Проверяемые исключения (Checked Exceptions):
+   Это исключения, которые компилятор Java обязывает обрабатывать
+   или объявлять в сигнатуре метода с помощью ключевого слова throws.
+   Примеры проверяемых исключений: IOException, FileNotFoundException, SQLException.
+
+Пример обработки проверяемого исключения:
+import java.io.*;
+
+public class Main {
+    public static void main(String[] args) {
+        try {
+            FileReader fileReader = new FileReader("example.txt");
+            // Код для работы с файлом
+            fileReader.close();
+        } catch (FileNotFoundException e) {
+            System.out.println("Файл не найден.");
+        } catch (IOException e) {
+            System.out.println("Ошибка ввода/вывода.");
+        }
+    }
+}
+
+2. Непроверяемые исключения (Unchecked Exceptions):
+- Это исключения, которые компилятор Java не требует обрабатывать или объявлять.
+- Примеры непроверяемых исключений: NullPointerException, ArrayIndexOutOfBoundsException,
+ArithmeticException.
+
+Пример непроверяемого исключения:
+public class Main {
+    public static void main(String[] args) {
+        int[] arr = {1, 2, 3};
+        try {
+            int result = arr[5] / 0; // Приведет к ArithmeticException
+        } catch (ArithmeticException e) {
+            System.out.println("Деление на ноль.");
+        } catch (ArrayIndexOutOfBoundsException e) {
+            System.out.println("Индекс вне диапазона массива.");
+        }
+    }
+}
+
+Для обработки исключений используются ключевые слова try, catch, finally:
+- try: В блоке try помещается код, в котором может возникнуть исключение.
+- catch: В блоках catch указываются исключения и код, который будет выполнен при
+возникновении исключения.
+- finally: В блоке finally указывается код, который выполняется всегда,
+независимо от того, произошло исключение или нет.
+Блок finally необязателен.
+
+Пример с использованием finally:
+import java.io.*;
+
+public class Main {
+    public static void main(String[] args) {
+        FileReader fileReader = null;
+        try {
+            fileReader = new FileReader("example.txt");
+            // Код для работы с файлом
+        } catch (FileNotFoundException e) {
+            System.out.println("Файл не найден.");
+        } finally {
+            try {
+                if (fileReader != null) {
+                    fileReader.close();
+                }
+            } catch (IOException e) {
+                System.out.println("Ошибка ввода/вывода при закрытии файла.");
+            }
+        }
+    }
+}
+
+Обработка исключений позволяет создавать более надежные и устойчивые программы,
+которые могут справляться с различными ситуациями ошибок во время выполнения.

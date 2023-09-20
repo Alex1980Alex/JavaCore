@@ -5,47 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f73f7879-5112-4636-8a1f-79b66f364bb0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/E_Наследование/Object/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/ClosedInterfaceMethods_ЗакрытыеМетодыИнтерфейса/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/DemonstratingTheUseOfAccessModifiers_ДемонстрацияИспользованияМодификаторовДоступа/Chapter/pkg01/Derived.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/DemonstratingTheUseOfAccessModifiers_ДемонстрацияИспользованияМодификаторовДоступа/Chapter/pkg01/MainDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/DemonstratingTheUseOfAccessModifiers_ДемонстрацияИспользованияМодификаторовДоступа/Chapter/pkg01/Protection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/DemonstratingTheUseOfAccessModifiers_ДемонстрацияИспользованияМодификаторовДоступа/Chapter/pkg01/SamePackage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/DemonstratingTheUseOfAccessModifiers_ДемонстрацияИспользованияМодификаторовДоступа/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/DemonstratingTheUseOfAccessModifiers_ДемонстрацияИспользованияМодификаторовДоступа/pkg02/MainDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/DemonstratingTheUseOfAccessModifiers_ДемонстрацияИспользованияМодификаторовДоступа/pkg02/OtherPackage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/DemonstratingTheUseOfAccessModifiers_ДемонстрацияИспользованияМодификаторовДоступа/pkg02/Protection2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/ExpandingInterfaces_РасширениеИнтерфейсов/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/ExpandingInterfaces_РасширениеИнтерфейсов/ExtendsInterfaces/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/ExpandingInterfaces_РасширениеИнтерфейсов/ExtendsInterfaces/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/ExpandingInterfaces_РасширениеИнтерфейсов/ExtendsInterfaces/IFExtend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/ExpandingInterfaces_РасширениеИнтерфейсов/ExtendsInterfaces/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/Interfaces_Интерфейсы/ChapterInterfaces/Callback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/Interfaces_Интерфейсы/ChapterInterfaces/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/Interfaces_Интерфейсы/ChapterInterfaces/TestIface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/Interfaces_Интерфейсы/ChapterInterfaces_2/Client_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/Interfaces_Интерфейсы/ChapterInterfaces_2/TestIfac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/Interfaces_Интерфейсы/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/NestedInterfaces_ВложенныеИнтерфейсы/ChapterStack/DynStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/NestedInterfaces_ВложенныеИнтерфейсы/ChapterStack/FixedStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/NestedInterfaces_ВложенныеИнтерфейсы/ChapterStack/IFTestЗ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/NestedInterfaces_ВложенныеИнтерфейсы/ChapterStack/IntStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/NestedInterfaces_ВложенныеИнтерфейсы/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/NestedInterfaces_ВложенныеИнтерфейсы/NestedInterfaces/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/NestedInterfaces_ВложенныеИнтерфейсы/NestedInterfaces/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/NestedInterfaces_ВложенныеИнтерфейсы/NestedInterfaces/NestedIFDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/StandardInterfaceMethods_СтандартныеМетодыИнтерфейса/DefaultMethod/DefaultMethMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/StandardInterfaceMethods_СтандартныеМетодыИнтерфейса/DefaultMethod/DefaultMethMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/StandardInterfaceMethods_СтандартныеМетодыИнтерфейса/DefaultMethod/MyIF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/StandardInterfaceMethods_СтандартныеМетодыИнтерфейса/DefaultMethod/MyIFImp1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/StandardInterfaceMethods_СтандартныеМетодыИнтерфейса/DefaultMethod/MyIFImp2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/StandardInterfaceMethods_СтандартныеМетодыИнтерфейса/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/UsingStaticMethodsInTheInterface_ИспользованиеСтатическихМетодовВИнтерфейсе/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/VariablesInInterfaces_ПеременныеВИнтерфейсах/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/VariablesInInterfaces_ПеременныеВИнтерфейсах/VariablesInInterfaces/AskМe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/VariablesInInterfaces_ПеременныеВИнтерфейсах/VariablesInInterfaces/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/VariablesInInterfaces_ПеременныеВИнтерфейсах/VariablesInInterfaces/Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/F_ПакетыИИнтерфейсы/VariablesInInterfaces_ПеременныеВИнтерфейсах/VariablesInInterfaces/SharedConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/G_ОбработкаИсключений/BasicsOfExceptionHandling_ОсновыОбработкиИсключений/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/G_ОбработкаИсключений/DisplayingTheExceptionDescription_ОтображениеОписанияИсключения/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/G_ОбработкаИсключений/NestedTryStatements_ВложенныеОператорыTry/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/G_ОбработкаИсключений/NestedTryStatements_ВложенныеОператорыTry/Example/MethNestedTry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/G_ОбработкаИсключений/NestedTryStatements_ВложенныеОператорыTry/Example/NestedTry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/G_ОбработкаИсключений/ThrowOperator_ОператорThrow/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/G_ОбработкаИсключений/ThrowOperator_ОператорThrow/Example/ThrowDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/G_ОбработкаИсключений/TypesOfExceptions_ТипыИсключений/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/G_ОбработкаИсключений/TypesOfExceptions_ТипыИсключений/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/G_ОбработкаИсключений/UncaughtExceptions_НеперехваченныеИсключения/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/G_ОбработкаИсключений/UncaughtExceptions_НеперехваченныеИсключения/Example/Exc0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/G_ОбработкаИсключений/UsingMultipleCatchConstructs_ИспользованиеНесколькихКонструкцийCаtch/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/G_ОбработкаИсключений/UsingMultipleCatchConstructs_ИспользованиеНесколькихКонструкцийCаtch/Example/MultipleCatches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/G_ОбработкаИсключений/UsingTryAndCatch_ИспользованиеTryИCatch/Description_Описание.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/G_ОбработкаИсключений/UsingTryAndCatch_ИспользованиеTryИCatch/Example/HandleError.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +52,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/alext/OneDrive/Документы/JavaCore/JavaCore/src/F_ПакетыИИнтерфейсы/ClosedInterfaceMethods_ЗакрытыеМетодыИнтерфейса"
+    "last_opened_file_path": "C:/Users/alext/OneDrive/Документы/JavaCore/JavaCore/src/G_ОбработкаИсключений/ThrowOperator_ОператорThrow"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -86,14 +60,14 @@
       <recent name="C_УправляющиеОператоры.TransitionOperators_ОператорыПерехода" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\F_ПакетыИИнтерфейсы\ClosedInterfaceMethods_ЗакрытыеМетодыИнтерфейса" />
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\F_ПакетыИИнтерфейсы\UsingStaticMethodsInTheInterface_ИспользованиеСтатическихМетодовВИнтерфейсе" />
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\F_ПакетыИИнтерфейсы\StandardInterfaceMethods_СтандартныеМетодыИнтерфейса" />
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\F_ПакетыИИнтерфейсы\ExpandingInterfaces_РасширениеИнтерфейсов" />
-      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\F_ПакетыИИнтерфейсы\VariablesInInterfaces_ПеременныеВИнтерфейсах" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\G_ОбработкаИсключений\ThrowOperator_ОператорThrow" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\G_ОбработкаИсключений\NestedTryStatements_ВложенныеОператорыTry" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\G_ОбработкаИсключений\UsingMultipleCatchConstructs_ИспользованиеНесколькихКонструкцийCаtch" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\G_ОбработкаИсключений\DisplayingTheExceptionDescription_ОтображениеОписанияИсключения" />
+      <recent name="C:\Users\alext\OneDrive\Документы\JavaCore\JavaCore\src\G_ОбработкаИсключений\UsingTryAndCatch_ИспользованиеTryИCatch" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DefaultMethMain2">
+  <component name="RunManager" selected="Application.MultipleCatches">
     <configuration name="DefaultMethMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="F_ПакетыИИнтерфейсы.StandardInterfaceMethods_СтандартныеМетодыИнтерфейса.DefaultMethod.DefaultMethMain" />
       <module name="JavaCore" />
@@ -120,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IFExtend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="F_ПакетыИИнтерфейсы.ExpandingInterfaces_РасширениеИнтерфейсов.ExtendsInterfaces.IFExtend" />
+    <configuration name="Exc0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="G_ОбработкаИсключений.UncaughtExceptions_НеперехваченныеИсключения.Example.Exc0" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="F_ПакетыИИнтерфейсы.ExpandingInterfaces_РасширениеИнтерфейсов.ExtendsInterfaces.*" />
+          <option name="PATTERN" value="G_ОбработкаИсключений.UncaughtExceptions_НеперехваченныеИсключения.Example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IFTestЗ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="F_ПакетыИИнтерфейсы.NestedInterfaces_ВложенныеИнтерфейсы.ChapterStack.IFTestЗ" />
+    <configuration name="G_ОбработкаИсключений.TypesOfExceptions_ТипыИсключений.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="G_ОбработкаИсключений.TypesOfExceptions_ТипыИсключений.Main" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="F_ПакетыИИнтерфейсы.NestedInterfaces_ВложенныеИнтерфейсы.ChapterStack.*" />
+          <option name="PATTERN" value="G_ОбработкаИсключений.TypesOfExceptions_ТипыИсключений.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="F_ПакетыИИнтерфейсы.VariablesInInterfaces_ПеременныеВИнтерфейсах.VariablesInInterfaces.Main" />
+    <configuration name="MultipleCatches" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="G_ОбработкаИсключений.UsingMultipleCatchConstructs_ИспользованиеНесколькихКонструкцийCаtch.Example.MultipleCatches" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="F_ПакетыИИнтерфейсы.VariablesInInterfaces_ПеременныеВИнтерфейсах.VariablesInInterfaces.*" />
+          <option name="PATTERN" value="G_ОбработкаИсключений.UsingMultipleCatchConstructs_ИспользованиеНесколькихКонструкцийCаtch.Example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultipleCatches" />
+        <item itemvalue="Application.Exc0" />
+        <item itemvalue="Application.G_ОбработкаИсключений.TypesOfExceptions_ТипыИсключений.Main" />
         <item itemvalue="Application.DefaultMethMain2" />
         <item itemvalue="Application.DefaultMethMain" />
-        <item itemvalue="Application.IFExtend" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.IFTestЗ" />
       </list>
     </recent_temporary>
   </component>
