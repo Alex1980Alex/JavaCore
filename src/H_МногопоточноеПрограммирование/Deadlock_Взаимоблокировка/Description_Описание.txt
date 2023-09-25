@@ -1,0 +1,64 @@
+Взаимная блокировка (deadlock) - это ситуация в многопоточном программировании,
+когда два или более потока блокируют друг друга, ожидая ресурсы, которые удерживают другие потоки.
+Как результат, ни один из потоков не может продолжить выполнение, и программа зависает.
+
+Вот пример взаимной блокировки в Java:
+public class DeadlockExample {
+    public static void main(String[] args) {
+        final Object resource1 = new Object();
+        final Object resource2 = new Object();
+
+        Thread thread1 = new Thread(() -> {
+            synchronized (resource1) {
+                System.out.println("Thread 1: Holding resource 1...");
+
+                try {
+                    Thread.sleep(100);
+                } catch (InterruptedException e) {
+                }
+
+                System.out.println("Thread 1: Waiting for resource 2...");
+                synchronized (resource2) {
+                    System.out.println("Thread 1: Holding resource 1 and 2...");
+                }
+            }
+        });
+
+        Thread thread2 = new Thread(() -> {
+            synchronized (resource2) {
+                System.out.println("Thread 2: Holding resource 2...");
+
+                try {
+                    Thread.sleep(100);
+                } catch (InterruptedException e) {
+                }
+
+                System.out.println("Thread 2: Waiting for resource 1...");
+                synchronized (resource1) {
+                    System.out.println("Thread 2: Holding resource 1 and 2...");
+                }
+            }
+        });
+
+        thread1.start();
+        thread2.start();
+    }
+}
+В этом примере Thread 1 блокирует resource1 и пытается получить resource2, в то время как Thread 2
+блокирует resource2 и пытается получить resource1. Оба потока ожидают друг друга,
+и программа зависает в состоянии взаимной блокировки.
+
+Чтобы избежать взаимной блокировки, вам следует следовать некоторым правилам и лучшим практикам:
+1. Используйте строго определенный порядок блокировки для ресурсов, чтобы избежать циклической
+зависимости.
+
+2. Предпочтительно использовать более высокоуровневые механизмы синхронизации,
+такие как java.util.concurrent библиотека, чтобы управлять потоками и ресурсами.
+
+3. Если используете несколько ресурсов, используйте tryLock()
+и устанавливайте максимальное время ожидания, чтобы избежать бесконечного ожидания.
+
+4. Используйте анализаторы кода и инструменты для обнаружения взаимной блокировки в вашем коде.
+
+Избегайте ситуаций взаимной блокировки, так как они могут привести
+к непредсказуемому поведению программы и усложнить отладку.

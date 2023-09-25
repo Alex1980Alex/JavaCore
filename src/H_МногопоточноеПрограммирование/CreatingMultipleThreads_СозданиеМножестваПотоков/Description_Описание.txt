@@ -1,0 +1,44 @@
+Создание множества потоков в Java можно осуществить с использованием класса Thread
+или с помощью интерфейса Runnable.
+Вот примеры обоих способов:
+С использованием класса Thread:
+class MyThread extends Thread {
+    public void run() {
+        // Код, выполняемый в этом потоке
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        MyThread thread1 = new MyThread();
+        MyThread thread2 = new MyThread();
+
+        // Запускаем потоки
+        thread1.start();
+        thread2.start();
+    }
+}
+С использованием интерфейса Runnable:
+class MyRunnable implements Runnable {
+    public void run() {
+        // Код, выполняемый в этом потоке
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        MyRunnable runnable1 = new MyRunnable();
+        MyRunnable runnable2 = new MyRunnable();
+
+        // Создаем объекты Thread и передаем объекты Runnable в конструктор
+        Thread thread1 = new Thread(runnable1);
+        Thread thread2 = new Thread(runnable2);
+
+        // Запускаем потоки
+        thread1.start();
+        thread2.start();
+    }
+}
+Оба способа позволяют создавать и запускать множество потоков в Java.
+При этом важно следить за синхронизацией и управлением ресурсами в многопоточных приложениях,
+чтобы избежать состязательных ситуаций и гонок данных.

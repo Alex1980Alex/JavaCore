@@ -5,17 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f73f7879-5112-4636-8a1f-79b66f364bb0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/G_ОбработкаИсключений/ConcatenatedExceptions_СцепленныеИсключения/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/G_ОбработкаИсключений/ConcatenatedExceptions_СцепленныеИсключения/Example/ChainExcDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/G_ОбработкаИсключений/FinallyConstruction_КонструкцияFinally/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/G_ОбработкаИсключений/FinallyConstruction_КонструкцияFinally/Example/FinallyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/G_ОбработкаИсключений/FinallyConstruction_КонструкцияFinally/Example_2/ExampleException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/G_ОбработкаИсключений/ThrowsDesign_КонструкцияThrows/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/G_ОбработкаИсключений/ThrowsDesign_КонструкцияThrows/Example/ThrowsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/G_ОбработкаИсключений/ThrowsDesign_КонструкцияThrows/Example_2/ThrowsFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/G_ОбработкаИсключений/СозданиеСобственныхПодклассовException/Description_Описание.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/G_ОбработкаИсключений/СозданиеСобственныхПодклассовException/Example/ExceptionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/G_ОбработкаИсключений/СозданиеСобственныхПодклассовException/Example/MyException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

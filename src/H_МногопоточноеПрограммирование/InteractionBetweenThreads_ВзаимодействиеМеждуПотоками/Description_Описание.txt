@@ -1,0 +1,18 @@
+
+Wait и Notify:
+Методы wait() и notify() позволяют потокам ждать и уведомлять друг друга.
+Они используются в сочетании с блоками synchronized или с мониторами.
+// Поток 1
+synchronized (monitor) {
+    monitor.wait(); // Ожидание уведомления
+}
+
+// Поток 2
+synchronized (monitor) {
+    monitor.notify(); // Уведомление ожидающего потока
+}
+
+
+
+
+
