@@ -8,11 +8,11 @@ public class Runner {
         System.out.println(currentThread().getName());
 
         // Создаем новый поток
-        final Thread thread = new myThread();
+        Thread thread = new myThread();
         thread.start();
 
         // Создаем новый поток с помощью анонимного класса
-        final Thread thread_2 = new Thread(){
+        Thread thread_2 = new Thread(){
 
             @Override
             public void run() {
@@ -23,8 +23,8 @@ public class Runner {
 
         // Создаем новый поток с помощью экземпляра класса который реализует
         // интерфейса Runnable
-        final Runnable task = () -> System.out.println(currentThread().getName());
-        final Thread thread_3 = new Thread(task);
+        Runnable task = () -> System.out.println(currentThread().getName());
+        Thread thread_3 = new Thread(task);
         thread_3.start();
     }
 
