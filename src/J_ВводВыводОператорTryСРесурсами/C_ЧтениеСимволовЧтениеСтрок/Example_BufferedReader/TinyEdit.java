@@ -3,12 +3,18 @@ import java.io.*;
 // Простейший текстовый редактор
 public class TinyEdit {
     public static void main(String[] args) throws IOException {
-        // создать поток ввода типа BufferedReader, используя стандартный поток ввода System.in
+        // - BufferedReader - это класс, который обеспечивает более эффективное чтение текстовых
+        // данных из входных потоков, таких как клавиатура (стандартный ввод).
+        // - InputStreamReader используется для преобразования байтового ввода (который предоставляет
+        // System.in) в символьный ввод. Этот символьный ввод затем передается
+        // BufferedReader для более удобного чтения текстовых данных.
+        // - System.in представляет стандартный ввод, который обычно связан с клавиатурой.
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String[] str = new String[100];
         System.out.println("Bвeдитe строки текста через <Enter>.");
         System.out.println("Bвeдитe 'стоп' для завершения:");
         for (int i = 0; i < 100; i++) {
+            //  читает одну строку текста из входного потока и возвращает эту строку.
             str[i] = br.readLine();
             if (str[i].equals("стоп")) break;
         }
