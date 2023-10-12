@@ -1,0 +1,49 @@
+Обобщенные подклассы (generic subclasses) в Java могут быть реализованы с использованием
+обобщенных классов и наследования. Вы можете создать подкласс, который наследует обобщенный
+суперкласс, а также дополнить его собственными обобщенными параметрами и методами.
+
+Вот пример:
+// Обобщенный суперкласс
+class GenericClass<T> {
+    private T data;
+
+    public GenericClass(T data) {
+        this.data = data;
+    }
+    public T getData() {
+        return data;
+    }
+}
+// Обобщенный подкласс
+class Subclass<S, T> extends GenericClass<S> {
+    private T additionalData;
+
+    public Subclass(S data, T additionalData) {
+        super(data); // Вызов конструктора суперкласса
+        this.additionalData = additionalData;
+    }
+    public T getAdditionalData() {
+        return additionalData;
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        GenericClass<Integer> superClass = new GenericClass<>(42);
+        Subclass<Integer, String> subClass = new Subclass<>(100, "Hello, World!");
+
+        System.out.println("Superclass data: " + superClass.getData());
+        System.out.println("Subclass data: " + subClass.getData());
+        System.out.println("Subclass additional data: " + subClass.getAdditionalData());
+    }
+}
+
+В этом примере GenericClass - это обобщенный суперкласс, а Subclass - это обобщенный подкласс,
+который наследует GenericClass. Подкласс Subclass имеет собственный обобщенный параметр T и методы,
+связанные с этим параметром.
+
+При создании экземпляра Subclass мы указываем параметры для обоих типов данных, а при
+создании экземпляра GenericClass, мы указываем только один параметр типа.
+
+Обобщенные подклассы позволяют вам создавать универсальные классы, которые наследуют
+функциональность от суперкласса, но также добавляют собственную функциональность и параметры типа.

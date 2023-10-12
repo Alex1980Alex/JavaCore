@@ -1,0 +1,35 @@
+В Java вы можете создавать обобщенные интерфейсы, так же как и обобщенные классы и методы.
+Обобщенные интерфейсы позволяют определить интерфейс, который может работать с различными типами данных.
+
+Вот пример обобщенного интерфейса:
+public interface GenericInterface<T> {
+    T getItem();
+    void setItem(T item);
+}
+
+public class Example implements GenericInterface<String> {
+    private String item;
+
+    @Override
+    public String getItem() {
+        return item;
+    }
+
+    @Override
+    public void setItem(String item) {
+        this.item = item;
+    }
+
+    public static void main(String[] args) {
+        Example example = new Example();
+        example.setItem("Hello, World!");
+        System.out.println("Item: " + example.getItem());
+    }
+}
+В данном примере GenericInterface - это обобщенный интерфейс с параметром типа T.
+Реализуя этот интерфейс в классе Example, мы указываем тип String в качестве параметра типа T.
+Это позволяет классу Example использовать методы интерфейса с конкретным типом данных String.
+
+Вы можете создавать различные реализации этого интерфейса с разными типами данных,
+и каждая реализация будет определять свой собственный тип для T, что обеспечивает безопасность
+типов во время компиляции.

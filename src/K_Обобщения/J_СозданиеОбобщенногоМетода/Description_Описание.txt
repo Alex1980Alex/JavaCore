@@ -1,0 +1,41 @@
+Создание обобщенного (generic) метода в Java позволяет написать код, который может работать с
+различными типами данных, обеспечивая безопасность типов во время компиляции.
+Для создания обобщенного метода в Java используется параметр типа (type parameter)
+в угловых скобках перед возвращаемым типом.
+Вот пример обобщенного метода:
+
+public class GenericMethodExample {
+
+    // Обобщенный метод, который принимает любой тип данных
+    public <T> T getMiddle(T[] array) {
+        if (array == null || array.length == 0) {
+            return null;
+        }
+
+        int middleIndex = array.length / 2;
+        return array[middleIndex];
+    }
+
+    public static void main(String[] args) {
+        GenericMethodExample example = new GenericMethodExample();
+
+        // Использование обобщенного метода с разными типами данных
+        Integer[] intArray = {1, 2, 3, 4, 5};
+        Double[] doubleArray = {1.0, 2.0, 3.0, 4.0, 5.0};
+        String[] stringArray = {"one", "two", "three", "four", "five"};
+
+        Integer middleInt = example.getMiddle(intArray);
+        Double middleDouble = example.getMiddle(doubleArray);
+        String middleString = example.getMiddle(stringArray);
+
+        System.out.println("Средний элемент в массиве целых чисел: " + middleInt);
+        System.out.println("Средний элемент в массиве чисел с плавающей запятой: " + middleDouble);
+        System.out.println("Средний элемент в массиве строк: " + middleString);
+    }
+}
+В этом примере getMiddle - это обобщенный метод, который принимает массив T[],
+где T - параметр типа, и возвращает элемент среднего индекса массива.
+
+Этот метод можно вызвать с разными типами массивов (целых чисел, чисел с плавающей запятой, строк)
+без необходимости создавать отдельные методы для каждого типа данных.
+Во время компиляции Java проверяет правильность типов, что обеспечивает безопасность типов.

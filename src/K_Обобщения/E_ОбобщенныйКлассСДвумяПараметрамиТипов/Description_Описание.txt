@@ -1,0 +1,40 @@
+Для обобщенного типа можно объявлять не только один параметр. Несколько параметров типа можно указать
+списком через запятую.
+
+Обобщенный класс с двумя параметрами типа в Java может быть объявлен следующим образом:
+public class GenericClass<T1, T2> {
+    private T1 value1;
+    private T2 value2;
+
+    public GenericClass(T1 value1, T2 value2) {
+        this.value1 = value1;
+        this.value2 = value2;
+    }
+
+    public T1 getValue1() {
+        return value1;
+    }
+
+    public void setValue1(T1 value1) {
+        this.value1 = value1;
+    }
+
+    public T2 getValue2() {
+        return value2;
+    }
+
+    public void setValue2(T2 value2) {
+        this.value2 = value2;
+    }
+
+    // Другие методы могут использовать value1 и value2
+}
+
+В этом примере GenericClass является обобщенным классом с двумя параметрами типа T1 и T2.
+Эти параметры могут быть заменены различными типами данных при создании объекта класса.
+
+GenericClass<Integer, String> example = new GenericClass<>(42, "Hello");
+Integer intValue = example.getValue1();
+String strValue = example.getValue2();
+
+В этом случае T1 был заменен на Integer, а T2 на String.
