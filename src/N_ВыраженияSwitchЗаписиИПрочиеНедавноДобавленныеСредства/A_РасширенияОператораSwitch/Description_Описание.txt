@@ -1,0 +1,73 @@
+В языке программирования Java оператор switch используется для выполнения различных действий
+в зависимости от значения выражения (или выражений), указанных внутри блока switch.
+В Java, оператор switch поддерживает следующие типы расширений:
+
+1. Введение в Java 12: В версии Java 12 была введена возможность использовать switch
+с типом данных String. Это означает, что теперь можно использовать строки в качестве
+значений выражений в switch.
+Пример:
+String day = "Monday";
+switch (day) {
+    case "Monday":
+        System.out.println("It's Monday.");
+        break;
+    case "Tuesday":
+        System.out.println("It's Tuesday.");
+        break;
+    // ...
+    default:
+        System.out.println("It's another day.");
+}
+
+2. В Java 12 и более поздних версиях появилась возможность использовать "case со стрелкой"
+(arrow case labels) в операторе switch. Это позволяет короче и более читаемо записывать ветви case.
+Пример:
+int dayOfWeek = 3;
+switch (dayOfWeek) {
+    case 1 -> System.out.println("Понедельник");
+    case 2 -> System.out.println("Вторник");
+    case 3 -> System.out.println("Среда");
+    case 4, 5 -> System.out.println("Четверг или Пятница");
+    default -> System.out.println("Выходной");
+}
+Здесь -> используется для указания действия, которое выполняется при
+совпадении значения dayOfWeek с определенными case.
+
+3. yield представляет собой ключевое слово, введенное
+в Java 13 для использования в связке с выражениями (expression switch) и в записи в форме switch
+с выражениями (arrow case labels).. Оператор yield возвращает значение из switch, что упрощает
+код и делает его более компактным.
+Пример:
+int result = switch (day) {
+    case "Monday" -> {
+        yield 1;
+    }
+    case "Tuesday" -> {
+        yield 2;
+    }
+    // ...
+    default -> {
+        yield 0;
+    }
+};
+yield используется для возврата значения из выражения switch. В данном случае, в зависимости от
+значения day, выполнится одна из ветвей case, и значение будет возвращено оператором yield.
+
+4. В Java 15 добавлено улучшение для оператора switch в связи с enum. Теперь можно использовать
+блоки кода в каждой ветке case без необходимости явно указывать break, что делает код более читаемым.
+Пример:
+enum Day {
+    MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY
+}
+
+Day today = Day.MONDAY;
+switch (today) {
+    case MONDAY, TUESDAY -> {
+        System.out.println("It's a weekday.");
+        // Дополнительный код
+    }
+    case SATURDAY, SUNDAY -> {
+        System.out.println("It's the weekend.");
+        // Дополнительный код
+    }
+}
