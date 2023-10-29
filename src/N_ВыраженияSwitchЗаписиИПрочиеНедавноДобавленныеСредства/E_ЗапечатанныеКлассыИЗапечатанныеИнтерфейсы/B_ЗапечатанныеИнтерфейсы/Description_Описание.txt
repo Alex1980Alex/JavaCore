@@ -21,7 +21,7 @@ public sealed interface MySealedIF permits Alpha, Beta, MyIF {
     void rnyMeth () ;
 }
 
-Поскольку МуIF присутствует в конструкции реrmits интерфейса
+Поскольку МуIF присутствует в конструкции permits интерфейса
 MySealedIF, он должен быть помечен как non-sealed или sealed и обязан
 расширять MySealedIF:
 public non-sealed interface MyIF extends MySealedIF {
@@ -31,8 +31,8 @@ public non-sealed interface MyIF extends MySealedIF {
 Как и следовало ожидать, класс может быть унаследован от запечатанного
 класса и реализовывать запечатанный интерфейс. Скажем, следующий класс
 Alpha унаследован от MySealedClass и реализует MySealedIF:
-public non-sealed class Alpha extends MySealedClass irnplernents MySealedIF {
-    public void rnyMeth() { Systern.out.println("Meтoд rnyMeth() в Alpha."); }
+public non-sealed class Alpha extends MySealedClass implements MySealedIF {
+    public void rnyMeth() { System.out.println("Meтoд rnyMeth() в Alpha."); }
     //
 }
 
