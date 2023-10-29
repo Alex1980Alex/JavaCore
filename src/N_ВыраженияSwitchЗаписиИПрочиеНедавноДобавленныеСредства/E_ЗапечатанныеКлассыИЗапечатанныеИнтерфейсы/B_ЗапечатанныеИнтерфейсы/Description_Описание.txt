@@ -1,0 +1,59 @@
+Класс, реализующий запечатанный интерфейс, должен быть определен как final, sealed или non-sealed.
+
+Скажем, класс Alpha помечен как non-sealed, а Beta - как final:
+public non-sealed class Alpha implements MySealedIF {
+    public void rnyMeth () { System.out.println ( "Метод rnyMeth () в Alpha. ") ; }
+    // ...
+public final class Beta implements MySealedIF {
+    public void rnyMeth () { System.out.println ( "Метод rnyMeth () в Beta. ") ; }
+    // ...
+}
+
+Важный момент заключается в том, что любой класс, указанный в конструкции permits запечатанного интерфейса,
+обязан реализовывать интерфейс. Таким образом, запечатанный интерфейс и реализующие его классы
+формируют логическую единицу.
+
+В запечатанном интерфейсе также допускается указывать, какие другие
+интерфейсы могут его расширять.
+Например, интерфейс MySealedIF разрешает расширять его интерфейсу MyIF:
+// Обратите внимание на добавление MyIF в конструкцию permits.
+public sealed interface MySealedIF permits Alpha, Beta, MyIF {
+    void rnyMeth () ;
+}
+
+Поскольку МуIF присутствует в конструкции реrmits интерфейса
+MySealedIF, он должен быть помечен как non-sealed или sealed и обязан
+расширять MySealedIF:
+public non-sealed interface MyIF extends MySealedIF {
+// ...
+}
+
+Как и следовало ожидать, класс может быть унаследован от запечатанного
+класса и реализовывать запечатанный интерфейс. Скажем, следующий класс
+Alpha унаследован от MySealedClass и реализует MySealedIF:
+public non-sealed class Alpha extends MySealedClass irnplernents MySealedIF {
+    public void rnyMeth() { Systern.out.println("Meтoд rnyMeth() в Alpha."); }
+    //
+}
+
+В предшествующих примерах классы и интерфейсы были объявлены открытыми и потому находились в собственных
+файлах. Тем не менее, как и в случае с запечатанными классами, запечатанный интерфейс и реализующие
+его классы (и расширяющие интерфейсы) также могут храниться в одном
+файле, если классы и интерфейсы имеют стандартный доступ к пакету. В случаях подобного рода для
+запечатанного интерфейса конструкция permits не
+требуется. Например, MySealedIF не содержит конструкцию permits, потому что классы Alpha и Beta
+объявлены в том же самом файле внутри неименованного модуля:
+
+public sealed interface MySealedIF {
+    void myMeth();
+}
+non-sealed class Alpha extends MySealedClass implements MySealedIF {
+    public void myMeth () { System.out.println ( "Meтoд myMeth () в Alpha. " ) ;
+    // ...
+}
+final class Beta extends MySealedClass implements MySealedIF {
+    public void myMeth () ( System.out.println ( "Метод myMeth () в Beta . ");
+    // . ..
+}
+Последнее замечание: запечатанные классы и запечатанные интерфейсы больше всего пригодны разработчикам
+библиотек API, где производные классы и интерфейсы должны строго контролироваться.
